@@ -45,15 +45,17 @@ Feature selection • Dimension reduction • Deep learning • Big data analyti
 ### Latest Publications (2026)
 1. **"A novel Ridge-Hurdle Poisson model for addressing multicollinearity in zero-inflated count data"**
    - *Communications in Statistics-Simulation and Computation*
-   - [View Paper](https://github.com/Nayem4954/papers-published)
+   - [📥 Download PDF](papers/2026_1_Ridge-Hurdle_Poisson_Model.pdf) | [View Details](PAPERS_INDEX.md)
 
 2. **"Assessing the Influence of Managed Lane Separation Type on Lane Deviation"**
    - *Transportation Research Record*
    - Co-authors: Mwambeleko, E., Alluri, P.
+   - [📥 Download PDF](papers/2026_2_Managed_Lane_Separation.pdf)
 
 3. **"Predicting Injury Severity of Work Zone Crashes Along Florida Freeways"**
    - *Transportation Research Record*
    - Co-authors: Shita, H., Alluri, P.
+   - [📥 Download PDF](papers/2026_3_Work_Zone_Injury_Severity.pdf)
 
 ### Current Research Projects
 - **AI Applications to Transportation Safety** (FDOT, 2025-2026)

@@ -7,29 +7,35 @@
 #### 2026
 1. **Nayem, H., & Kibria, B. M. G. (2026).** "A novel Ridge-Hurdle Poisson model for addressing multicollinearity in zero-inflated count data." *Communications in Statistics-Simulation and Computation*, 1-20.
    - **Topics:** Ridge regression, Hurdle Poisson models, zero-inflated data, multicollinearity
+   - **📥 Download:** [Download PDF](papers/2026_1_Ridge-Hurdle_Poisson_Model.pdf)
    - **Status:** Published
 
 2. **Mwambeleko, E., Nayem, H., & Alluri, P. (2026).** "Assessing the Influence of Managed Lane Separation Type on Lane Deviation." *Transportation Research Record*, 03611981261433871.
    - **Topics:** Transportation, managed lanes, lane deviation, driver behavior
+   - **📥 Download:** [Download PDF](papers/2026_2_Managed_Lane_Separation.pdf)
    - **Status:** Published
 
 3. **Shita, H., Nayem, H., and Alluri, P. (2026).** "Predicting Injury Severity of Work Zone Crashes Along Florida Freeways." *Transportation Research Record*, 2680(1), 550-567.
    - **Topics:** Work zone safety, injury severity prediction, machine learning applications
+   - **📥 Download:** [Download PDF](papers/2026_3_Work_Zone_Injury_Severity.pdf)
    - **Status:** Published
 
 #### 2025
 4. **Nayem, H., Aziz, S., and Kibria, B. M. G. (2025).** "Evaluating Estimator Performance Under Multicollinearity: A Trade-Off Between MSE and Accuracy in Logistic, Lasso, Elastic Net, and Ridge Regression with Varying Penalty Parameters." *Stats*, 8(2), 45.
    - **Topics:** Regression methods, multicollinearity, model evaluation, MSE analysis
+   - **📥 Download:** [Download PDF](papers/2025_1_Estimator_Performance_Multicollinearity.pdf)
    - **Status:** Published
 
 5. **Nayem, H., Aziz, S., and Kibria, B.M.G. (2025).** "Robustness of Ordinary Least Squares and Ridge Estimators in the Presence of Outliers: A Simulation Study." *2025 JSM Proceedings*.
    - **DOI:** https://doi.org/10.5281/zenodo.17173047
    - **Topics:** Outlier detection, regression robustness, simulation studies
+   - **📥 Download:** [Download PDF](papers/2025_2_Robustness_OLS_Ridge_Estimators.pdf)
    - **Status:** Published
 
 #### 2024
 6. **Kasubi, F., Mdimi, O., Nayem, H., Mwambeleko, E., Shita, H., and Venkata, S. S. G. (2024).** "Deciphering Seasonal Weather Impacts on Crash Severity: A Machine Learning Approach." *Institute of Transportation Engineers Journal*, 94, 39-46.
    - **Topics:** Machine learning, weather impacts, crash severity, transportation safety
+   - **📥 Download:** [Download PDF](papers/2024_1_Weather_Impacts_Crash_Severity.pdf)
    - **Status:** Published
 
 ---

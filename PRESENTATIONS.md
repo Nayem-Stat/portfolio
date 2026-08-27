@@ -79,6 +79,7 @@ Comprehensive analysis of near-crash incidents on managed lane facilities to ide
 **Title:** "Analyzing the Synergistic Effects of TSMO Strategies for Quicker Speed Recovery after Incidents"  
 **Authors:** Kasubi, F., Nayem, H., and Alluri, P.  
 **Pages:** 470-480  
+**📥 Download:** [Download PDF](presentations/2025_ICTAD_TSMO_Strategies.pdf)  
 **Abstract:**
 Examines the combined effects of Traffic Systems Management and Operations (TSMO) strategies in accelerating speed recovery following traffic incidents. Analyzes data from I-95 corridor to quantify effectiveness of integrated incident response systems.
 
@@ -98,6 +99,7 @@ Examines the combined effects of Traffic Systems Management and Operations (TSMO
 
 **Title:** "Robustness of OLS, Ridge, Lasso, and Elastic Net in the Presence of Outliers: Simulation and Application"  
 **Authors:** Nayem, H., Aziz, S., and Kibria, B.M.G.  
+**📥 Download:** [Download PDF](presentations/2025_JSM_Robustness_Ridge.pdf)  
 **Abstract:**
 Comprehensive simulation study comparing the robustness of ordinary least squares (OLS), ridge, Lasso, and elastic net regression methods when data contains outliers. Evaluates multiple robustness metrics and provides practical recommendations.
 
@@ -123,6 +125,7 @@ Comprehensive simulation study comparing the robustness of ordinary least square
 
 **Title:** "A Prior-Information-Based Unbiased Convex Estimator for the Classical Linear Regression Model"  
 **Authors:** Nayem, H., and Kibria, B.M.G.  
+**📥 Download:** [Download PDF](presentations/2025_JSM_Prior_Based_Estimator.pdf)  
 **Abstract:**
 Proposes a novel convex estimator that incorporates prior information into classical linear regression without sacrificing the unbiasedness property. The method is particularly useful when prior beliefs about regression parameters are available from previous studies or expert knowledge.
 
