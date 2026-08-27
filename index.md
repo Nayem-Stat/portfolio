@@ -20,7 +20,7 @@ Currently pursuing a **PhD in Mathematical Sciences (Statistics)** at Florida In
 
 ## 🎯 Key Highlights
 
-- ✅ **7+ Published Papers** in peer-reviewed journals and conferences
+- ✅ **16 Published Papers** in peer-reviewed journals and conferences
 - ✅ **9+ Conference Presentations** at national and international venues
 - ✅ **Multiple Awards** including travel scholarships and research honors
 - ✅ **Active Research** on AI applications to transportation safety
@@ -191,3 +191,23 @@ Whether you're interested in collaboration, have questions about my research, or
 
 **Last Updated:** August 27, 2026
 
+
+---
+
+## 📚 Complete Publication Portfolio
+
+### **16 Published Papers + 9 Presentations**
+
+**📄 [VIEW COMPLETE PORTFOLIO](COMPLETE_PUBLICATIONS.md)** - All 16 papers with full details and download links
+
+#### Papers by Category:
+- **Statistical Methodology:** 8 papers on regression, estimation, and inference
+- **Transportation Safety:** 5 papers on crashes, driver behavior, and safety
+- **Machine Learning:** 3 papers on prediction and data analysis
+
+#### Conference Presentations:
+- **2026:** 3 presentations (SDSS, ASA, TRB)
+- **2025:** 6 presentations (JSM, QPRC, ICTAD)
+- **Impact:** National and international venues
+
+---
