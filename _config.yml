@@ -1,0 +1,28 @@
+title: HM Nayem - Professional Portfolio
+description: Statistician | Data Scientist | Transportation Safety Researcher
+theme: jekyll-theme-minimal
+show_downloads: false
+logo: assets/profile.png
+
+# Social
+github_username: Nayem4954
+linkedin_username: hm-nayem
+google_scholar: "https://scholar.google.com"
+
+# Navigation
+navigation:
+  - title: Home
+    url: /
+  - title: About
+    url: /about/
+  - title: Publications
+    url: /publications/
+  - title: Presentations
+    url: /presentations/
+  - title: Skills
+    url: /skills/
+  - title: Projects
+    url: /projects/
+
+# Markdown
+markdown: kramdown
