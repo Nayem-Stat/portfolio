@@ -159,6 +159,7 @@ Statistician with **4+ years of experience** developing and applying advanced st
 **Peer Review:**
 - Transportation Research Board (TRB) Annual Meeting Papers
 - Frontiers in Epidemiology Journal
+- Risk and Decision Analysis Journal
 
 ---
 

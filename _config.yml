@@ -1,28 +1,73 @@
 title: HM Nayem - Professional Portfolio
-description: Statistician | Data Scientist | Transportation Safety Researcher
+description: Statistician | Data Scientist | Transportation Safety Researcher | Advanced Statistical Modeling & Machine Learning Expert
 theme: jekyll-theme-minimal
 show_downloads: false
 logo: assets/profile.png
 
-# Social
+# Social Media
 github_username: Nayem4954
 linkedin_username: hm-nayem
-google_scholar: "https://scholar.google.com"
+google_scholar: "https://scholar.google.com/citations?user="
+email: hnayem@fiu.edu
+phone: "+1 (786) 836-9846"
 
-# Navigation
+# Navigation Menu
 navigation:
   - title: Home
     url: /
-  - title: About
-    url: /about/
+  - title: Resume
+    url: /README/
   - title: Publications
-    url: /publications/
+    url: /PUBLICATIONS/
   - title: Presentations
-    url: /presentations/
-  - title: Skills
-    url: /skills/
+    url: /PRESENTATIONS/
   - title: Projects
-    url: /projects/
+    url: /PROJECTS/
+  - title: Skills
+    url: /SKILLS/
+
+# Site Settings
+baseurl: ""
+url: "https://github.com/Nayem4954/portfolio"
+repository: Nayem4954/portfolio
 
 # Markdown
 markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-seo-tag
+
+# Build Settings
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - .git
+  - .gitignore
+
+# Analytics
+analytics:
+  google: "UA-XXXXXXXXX-X"
+
+# Collections
+collections_dir: _pages
+collections:
+  pages:
+    output: true
+    permalink: /:name/
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: "default"
