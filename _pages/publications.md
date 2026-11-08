@@ -1,42 +1,64 @@
-About the job
-OverviewAbout Analysis Group’s HEOR, Epidemiology, & Market Access Practice:Make an impact at Analysis Group, where we collaborate with our clients to develop and implement regulatory and analytical strategies to support life sciences products throughout their life cycles. Founded in 1981, Analysis Group is one of the largest international economics consulting firms, with more than 1,500 professionals across 15 offices, including more than 250 professionals who focus on health care. Analysis Group’s health care experts apply analytical expertise in health economics and outcomes research (HEOR), clinical research, market access and commercial strategy, health care policy, epidemiology and drug safety, data science, and biostatistics. Analysis Group’s internal experts, together with its network of affiliated experts from academia, industry, and government, provide our clients with exceptional breadth and depth of expertise and end-to-end consulting services globally.
-We draw upon our deep expertise to provide innovative, data-driven strategies for clients in the life sciences industry across all phases of product development and commercialization.
-We help our clients define markets, demonstrate value, and inform business decisions throughout product lifecycles.
-We have a broad range of expertise and collaborate with leading academics in our areas of expertise to offer cutting-edge analyses and analytical tools to address business and clinical challenges that require rigorous, evidence-based research.
-We are distinguished by the way we integrate our capabilities to provide our clients with a comprehensive approach to problem solving.
-We apply our analytical expertise to support pro bono initiatives that address critical public health and social issues. Our work includes collaborations with organizations such as GHESKIO in Haiti to develop digital tools that improve HIV clinic operations and patient outcomes, and Partners in Health in Lesotho to evaluate maternal and child health, HIV, and TB treatment outcomes. These efforts have been recognized by the Boston Bar Association’s President’s Award and highlighted at the International AIDS Society Conference, underscoring our commitment to using data and evidence-based research to advance global health and social impact.
-We have also been recognized as a best place to work in several top surveys, including national surveys by Glassdoor (Best Places to Work, Employees’ Choice Award, small and medium business category) and Vault (17th overall in the Vault Consulting 50, and the top-ranked economic consulting firm).
+---
+layout: default
+title: Publications
+permalink: /publications/
+---
 
-About The Senior Biostatistician PositionAnalysis Group is seeking an experienced biostatistics professional to support the continued growth of our clinical development and regulatory strategy practice. This role is particularly well suited for candidates who have applied biostatistical expertise within pharmaceutical or biotechnology clinical development and are interested in bringing that experience to a strategic, client-facing consulting environment. We are particularly interested in candidates with hands-on experience supporting regulatory submissions in a pharmaceutical or biotechnology setting, including contributing statistical expertise to a major regulatory submission.
-The role offers the opportunity to apply deep statistical and regulatory expertise across a diverse portfolio of clients, products, therapeutic areas, and development-stage challenges, while working alongside experts across biostatistics, clinical research, epidemiology, HEOR, data science, and regulatory strategy. Our work is innovative, rigorous, and intellectually enriching: biostatisticians help address novel clinical development and regulatory questions, shape fit-for-purpose analytical approaches, and contribute to evidence strategies that inform high-stakes decisions for life sciences clients. Biostatisticians play a key role in leading analytical workstreams, guiding project teams, and contributing to strategic decision-making across a diverse portfolio of client engagements. Responsibilities may include:
-Apply biostatistical and regulatory expertise to support clinical development, regulatory submissions (e.g., FDA, EMA), and evidence generation strategies.
-Contribute to strategic advising on clinical trial design, analysis strategy, and interpretation of results Oversee implementation of statistical analysis plans (SAPs) and ensure high-quality, reproducible analytical outputs.
-Manage and mentor teams of analysts and associates, providing guidance on technical execution and professional development.
-Direct data integration, cleaning, and transformation efforts across clinical trial and real-world data sources.
-Develop tools, programming standards, and best practices to enhance efficiency and scalability of analyses.
-Communicate findings to technical and non-technical audiences, including translating complex analyses into clear, actionable insights.
-Develop rigorous, innovative analytical approaches to address novel client questions and complex regulatory challenges.
-Contribute to business development efforts and support ongoing client relationships.
-Participate in dissemination of research through publications, presentations, and regulatory documentation.
+# Publications
 
-RequiredAnalysis Group fosters a work environment that is centered on delivering high-quality work through teamwork and collaboration, best-in-class learning programs, and a culture of transparency, trust, and respect. We are looking for candidates who demonstrate both technical expertise and strong interpersonal skills, and who are passionate about applying data and analytics to real-world challenges in the life sciences industry. Prior consulting experience is not required. We are particularly interested in industry professionals who are excited to apply their clinical development and regulatory experience in a client-facing environment and who demonstrate strong communication, judgment, and structured problem-solving skills. Specifically, we seek candidates with:
-Advanced degree (PhD preferred, Master’s considered) in Biostatistics, Statistics, Epidemiology, or a related quantitative field.
-A minimum of 3 years of substantive relevant experience is required. We are open to candidates at different career stages, with role scope and responsibilities calibrated to the candidate’s experience and expertise.
-Experience in early- to late-phase clinical trial design and regulatory evidence strategy
-Experience supporting or contributing to clinical-phase regulatory submissions for the US FDA and other regulatory authorities, including contributing statistical expertise to a major regulatory submission. Direct participation in regulatory interactions is a plus.
-Excellent judgement, problem-solving, and communication skills, with the ability to translate complex technical concepts into clear, structured insights for clients.
-Prior consulting experience is not required; candidates should demonstrate strong potential for client-facing work, sound judgment, and structured problem solving.
-Prior experience collaborating across cross-functional stakeholders (e.g., clinical, regulatory, HEOR).
-Experience overseeing statistical analyses and deliverables for regulatory submissions, including SAPs, TLFs, and CDISC-compliant SDTM and ADaM datasets.
-Experience serving as a statistical lead for a regulatory submission is highly valued.
-Demonstrated ability to manage multiple workstreams and meet deadlines.
-Interest in mentoring and developing junior team members.
-Collaborative mindset and ability to work across interdisciplinary teams.
-While not required, a plus would be experience with post-marketing evidence generation, including label expansion strategies, PASS/PAES, Phase IV studies, and the use of real-world evidence to support regulatory decision-making.
+My research develops and evaluates **regularized and shrinkage estimators**, **count-data models** and **high-dimensional prediction methods**, and applies statistical and machine learning models to real-world data. Code and data for most methodological papers are on [GitHub](https://github.com/Nayem-Stat). Citation metrics are on [Google Scholar](https://scholar.google.com/citations?user=F09k_p4AAAAJ&hl=en&oi=ao).
 
-Please submit your application and curriculum vitae through the Analysis Group website. You may also choose to include a cover letter, graduate transcripts, or publications as supplemental materials; however, these are optional and not required for consideration.
-Candidates must be legally authorized to work in the United States at the time of hire. Analysis Group may consider candidates who require visa sponsorship, consistent with business needs.Analysis Group offers competitive compensation and a comprehensive benefits package. The estimated salary range for this position is $195,000–$255,000. Compensation offered will be based on a number of factors including work experience, education, and skill level. This role is eligible for a discretionary annual bonus that is determined in large part by individual performance. To learn more about our benefit offerings, click here.
-Analysis Group embraces equal opportunity. We are committed to building teams that bring a variety of backgrounds, perspectives, and skills, as we believe that a strong and inclusive workforce directly supports our goal of providing the highest-quality work. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, or any other class protected under applicable federal, state, or local law, and we encourage candidates of all backgrounds to apply.Privacy Notice
-For information about Analysis Group’s privacy practices, please refer to the applicable Analysis Group privacy policy.­
-Equal Opportunity Employer/Protected Veterans/Individuals with Disabilities.
-Please view the EEOC's "Know Your Rights" poster here.
+**Summary:** 17 published (10 in statistical methodology, 7 applied) · 8 under review
+
+---
+
+## 📚 Peer-Reviewed Journal Articles, Proceedings & Reports
+
+1. **Nayem, H., & Kibria, B. M. G. (2026).** A novel Ridge-Hurdle Poisson model for addressing multicollinearity in zero-inflated count data. *Communications in Statistics – Simulation and Computation*, 1–20. [DOI](https://doi.org/10.1080/03610918.2025.2610985) · [PDF](../papers/2026_1_Ridge-Hurdle_Poisson_Model.pdf) · [Code & data](https://github.com/Nayem-Stat/Ridge-Hurdle-Poisson)
+2. **Mwambeleko, E., Nayem, H., & Alluri, P. (2026).** Assessing the influence of managed lane separation type on lane deviation. *Transportation Research Record*, 03611981261433871. [PDF](../papers/2026_2_Managed_Lane_Separation.pdf)
+3. **Shita, H., Nayem, H., & Alluri, P. (2026).** Predicting injury severity of work zone crashes along Florida freeways. *Transportation Research Record*, 2680(1), 550–567. [PDF](../papers/2026_3_Work_Zone_Injury_Severity.pdf)
+4. **Mwambeleko, E., Alluri, P., Sando, T., Nayem, H., Aida, A., & Matyenyi, J. (2026).** Analysis of crashes involving micromobility devices. *Transportation Research Record*, 2680(1), 730–747. [PDF](../papers/2026_4_Micromobility_Crashes.pdf)
+5. **Nayem, H., Aziz, S., & Kibria, B. M. G. (2025).** Evaluating estimator performance under multicollinearity: A trade-off between MSE and accuracy in logistic, lasso, elastic net, and ridge regression with varying penalty parameters. *Stats*, 8(2), 45. [DOI](https://doi.org/10.3390/stats8020045) · [PDF](../papers/2025_1_Estimator_Performance_Multicollinearity.pdf) · [Code & data](https://github.com/Nayem-Stat/Binary-Ridge-MSE-Accuracy)
+6. **Nayem, H., & Kibria, B. M. G. (2025).** The Ridge-Hurdle negative binomial regression model: A novel solution for zero-inflated counts in the presence of multicollinearity. *Stats*, 8(4), 102. [DOI](https://doi.org/10.3390/stats8040102) · [PDF](../papers/Paper_06_Hurdle_Negative_Binomial.pdf) · [Code & data](https://github.com/Nayem-Stat/Ridge-Hurdle-Negative-Binomial)
+7. **Aziz, S., Nayem, H., & Kibria, B. M. G. (2025).** Sample size requirements for the central limit theorem for skewed distributions: A simulation study. *Journal of Statistical Modeling and Analytics (JOSMA)*, 7(2), 16–31. [DOI](https://doi.org/10.22452/josma.vol7no2.2) · [PDF](../papers/Paper_04_Sample_Size.pdf)
+8. **Alheety, M. I., Nayem, H., & Kibria, B. M. G. (2025).** An unbiased convex estimator depending on prior information for the classical linear regression model. *Stats*, 8(1), 16. [DOI](https://doi.org/10.3390/stats8010016) · [PDF](../papers/2025_Conference_Prior_Distribution.pdf) · [Code & data](https://github.com/Nayem-Stat/Unbiased-Convex-Estimator)
+9. **Alluri, P., Abou-Senna, H., Mwambeleko, E., Ahmed, S., Nayem, H., & Gupta, A. (2025).** Human factors study to understand driver behavior on managed lane facilities. Technical report, Florida Department of Transportation.
+10. **Kasubi, F., Nayem, H., & Alluri, P. (2025).** Analyzing the synergistic effects of TSMO strategies for quicker speed recovery after incidents. *International Conference on Transportation and Development 2025*, 470–480. [PDF](../presentations/2025_ICTAD_TSMO_Strategies.pdf)
+11. **Aziz, S., Nayem, H., & Kibria, B. M. G. (2025).** A comparative evaluation of OLS, ridge and lasso in the presence of multicollinearity and outliers. *2025 JSM Proceedings*. [DOI](https://doi.org/10.5281/zenodo.17230601) · [PDF](../presentations/2025_JSM_Prior_Based_Estimator.pdf)
+12. **Nayem, H., Aziz, S., & Kibria, B. M. G. (2025).** Robustness of ordinary least squares and ridge estimators in the presence of outliers: A simulation study. *2025 JSM Proceedings*. [DOI](https://doi.org/10.5281/zenodo.17173047) · [PDF](../papers/2025_2_Robustness_OLS_Ridge_Estimators.pdf)
+13. **Alheety, M. I., Nayem, H., & Kibria, B. M. G. (2025).** A prior-information-based unbiased convex estimator for the classical linear regression model. *2025 JSM Proceedings*. [DOI](https://doi.org/10.5281/zenodo.17173188) · [PDF](../presentations/2025_JSM_Convex_Estimator.pdf)
+14. **Kasubi, F., Mdimi, O., Nayem, H., Mwambeleko, E., Shita, H., & Venkata, S. S. G. (2024).** Deciphering seasonal weather impacts on crash severity: A machine learning approach. *ITE Journal*, 94, 39–46. [PDF](../papers/2024_1_Weather_Impacts_Crash_Severity.pdf)
+15. **Nayem, H., Aziz, S., & Kibria, B. M. G. (2024).** Comparison among ordinary least squares, ridge, lasso, and elastic net estimators in the presence of outliers: Simulation and application. *International Journal of Statistical Sciences*, 24(2), 25–48. [DOI](https://doi.org/10.3329/ijss.v24i20.78212) · [PDF](../papers/Paper_02_Ridge_Regression.pdf) · [Code & data](https://github.com/Nayem-Stat/Ridge-Regression-Outliers)
+16. **Nayem, H., & Kibria, B. M. G. (2024).** A simulation study on some confidence intervals for estimating the population mean under asymmetric and symmetric distribution conditions. *Journal of Statistics Applications & Probability Letters*, 11(3), 123–144. [DOI](https://doi.org/10.18576/jsapl/110303) · [PDF](../papers/Paper_01_Mean_Estimator.pdf) · [Code & data](https://github.com/Nayem-Stat/Estimating-Population-Mean)
+17. **Alluri, P., Garupal, H., Nayem, H., Shita, H., & Angel, M. (2024).** Strategies to address head-on crashes. Technical report, Florida Department of Transportation.
+
+---
+
+## 📝 Papers Under Peer Review
+
+1. **Nayem, H., & Kibria, B. M. G.** Integrating machine learning and regularization for high-dimensional linear model: Simulation and application. *Communications in Statistics – Simulation and Computation*.
+2. **Nayem, H., & Kibria, B. M. G.** A unified shrinkage framework for zero-inflated and overdispersed count models under multicollinearity. *Sankhya B*.
+3. **Nayem, H., & Kibria, B. M. G.** Regularized and machine learning methods in sparse high-dimensional regression: Simulation and application. *Computational Statistics*.
+4. **Nayem, H., Kibria, B. M. G., & Vazquez, R.** Shrinkage estimation in Waring regression under multicollinearity and overdispersion: A simulation and application. *Communications in Statistics – Theory and Methods*.
+5. **Nayem, H., & Kibria, B. M. G.** Feature screening and ridge-type prediction for high-dimensional regression. *Journal of Statistical Computation and Simulation*.
+6. **Nayem, H., & Kibria, B. M. G.** Matching selection to model: Obesity prediction from high-dimensional gene expression data. *Statistics in Medicine*. ([code & data](https://github.com/Nayem-Stat/High-Dimensional-Gene-Expression-Data))
+7. **Soltaninejad, M., Nayem, H., & Alluri, P.** Modeling crash frequency at highway-rail grade crossings (HRGCs) in rural and urban areas. *Traffic Injury Prevention*.
+8. **Kasubi, F., Mdimi, O., & Nayem, H.** Weather effects on injury severity in undivided rural two-lane horizontal curve crashes using machine learning techniques with SHapley Additive Explanations. *IATSS Research*.
+
+---
+
+## 💻 Code & Data for My Papers
+
+| Repository | Paper | Venue |
+|------------|-------|-------|
+| [Ridge-Hurdle-Poisson](https://github.com/Nayem-Stat/Ridge-Hurdle-Poisson) | A novel Ridge-Hurdle Poisson model for multicollinearity in zero-inflated count data | *Commun. Stat. – Simul. Comput.* (2026) |
+| [Ridge-Hurdle-Negative-Binomial](https://github.com/Nayem-Stat/Ridge-Hurdle-Negative-Binomial) | The Ridge-Hurdle negative binomial regression model | *Stats* (2025) |
+| [Binary-Ridge-MSE-Accuracy](https://github.com/Nayem-Stat/Binary-Ridge-MSE-Accuracy) | Trade-off between MSE and accuracy in logistic, lasso, elastic net and ridge regression | *Stats* (2025) |
+| [Unbiased-Convex-Estimator](https://github.com/Nayem-Stat/Unbiased-Convex-Estimator) | An unbiased convex estimator depending on prior information | *Stats* (2025) |
+| [Ridge-Regression-Outliers](https://github.com/Nayem-Stat/Ridge-Regression-Outliers) | OLS, ridge, lasso and elastic net estimators in the presence of outliers | *Int. J. Stat. Sci.* (2024) |
+| [Estimating-Population-Mean](https://github.com/Nayem-Stat/Estimating-Population-Mean) | Confidence intervals for the population mean under asymmetric and symmetric distributions | *J. Stat. Appl. Probab. Lett.* (2024) |
+| [High-Dimensional-Gene-Expression-Data](https://github.com/Nayem-Stat/High-Dimensional-Gene-Expression-Data) | Obesity prediction from high-dimensional gene expression data (p ≫ n) | Under review |
+
+---
+
+*Last Updated: November 2026*
