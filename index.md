@@ -3,64 +3,48 @@ layout: default
 title: Home
 ---
 
-# Welcome to My Professional Portfolio
+# HM Nayem
 
-I'm **HM Nayem**, a statistician and data scientist with expertise in advanced statistical modeling, machine learning, and transportation safety research.
+**Statistician | Data Scientist**
+
+📍 Miami, Florida | 📧 hnayem@fiu.edu | ☎️ +1 (786) 836-9846 | [LinkedIn](https://www.linkedin.com/in/hm-nayem-9039b2248/) | [Google Scholar](https://scholar.google.com/citations?user=F09k_p4AAAAJ&hl=en&oi=ao) | [GitHub](https://github.com/Nayem-Stat)
 
 ## 👋 About Me
 
-With 4+ years of professional experience, I specialize in:
-- **High-dimensional data analysis** and multicollinearity handling
-- **Machine learning** applications to real-world problems
-- **Transportation safety** research and modeling
-- **Statistical inference** and quantitative research design
-- **Publication and presentation** in peer-reviewed venues
+I'm a statistician and data scientist with **5+ years of experience** turning complex, messy data into reliable models and clear decisions. I am a PhD candidate in Applied Mathematics (Statistics) at Florida International University and hold the **ASA Data Science Professional (DSP)** certification.
 
-Currently pursuing a **PhD in Mathematical Sciences (Statistics)** at Florida International University, while working on FDOT-funded transportation safety projects.
+I specialize in:
+- Regularized regression and multicollinearity (ridge, lasso, elastic net, shrinkage estimators)
+- Count-data modeling: Poisson, negative binomial, zero-inflated and hurdle models
+- High-dimensional data analysis, feature screening and variable selection
+- Machine learning and explainable AI (tree ensembles, SHAP)
+- Monte Carlo simulation, statistical inference and confidence intervals
+- Data pipelines, reporting, and monitoring & evaluation (M&E) for funded projects
 
 ## 🎯 Key Highlights
 
-- ✅ **16 Published Papers** in peer-reviewed journals and conferences
-- ✅ **9+ Conference Presentations** at national and international venues
-- ✅ **Multiple Awards** including travel scholarships and research honors
-- ✅ **Active Research** on AI applications to transportation safety
-- ✅ **Professional Involvement** in ASA, ITE, and ASCE
-- ✅ **Reviewer** for multiple journals including Risk and Decision Analysis
-
-## 📊 Research Focus
-
-### Statistical Methodology
-Ridge regression • Hurdle models • Regularization techniques • Robustness analysis
-
-### Transportation Safety
-Crash severity prediction • Work zone analysis • Driver behavior • Managed lanes
-
-### Machine Learning
-Feature selection • Dimension reduction • Deep learning • Big data analytics
+- ✅ **17 publications** in peer-reviewed journals, proceedings and funded-project reports
+- ✅ **8 papers under review** in statistics and data science journals
+- ✅ **23 conference presentations**, including JSM, SDSS, QPRC, MCA and the ASA Florida Chapter
+- ✅ **10 funded projects** for FDOT, the Asian Development Bank, GRIPS (Japan) and the University of Tsukuba
+- ✅ **ASA Data Science Professional (DSP)** certification, 2026–2031
+- ✅ **President**, Statistics Club (ASA Student Chapter at FIU), AY 2026–2027
+- ✅ **Open, reproducible research:** code and data for 7 papers on [GitHub](https://github.com/Nayem-Stat)
 
 ---
 
-## 📚 Featured Work
+## 📚 Featured Publications
 
-### Latest Publications (2026)
-1. **"A novel Ridge-Hurdle Poisson model for addressing multicollinearity in zero-inflated count data"**
-   - *Communications in Statistics-Simulation and Computation*
-   - [📥 Download PDF](papers/2026_1_Ridge-Hurdle_Poisson_Model.pdf) | [View Details](PAPERS_INDEX.md)
+1. **A novel Ridge-Hurdle Poisson model for addressing multicollinearity in zero-inflated count data** (2026)
+   *Communications in Statistics – Simulation and Computation* · [DOI](https://doi.org/10.1080/03610918.2025.2610985) · [PDF](papers/2026_1_Ridge-Hurdle_Poisson_Model.pdf) · [Code & data](https://github.com/Nayem-Stat/Ridge-Hurdle-Poisson)
+2. **The Ridge-Hurdle negative binomial regression model** (2025)
+   *Stats* 8(4), 102 · [DOI](https://doi.org/10.3390/stats8040102) · [PDF](papers/Paper_06_Hurdle_Negative_Binomial.pdf) · [Code & data](https://github.com/Nayem-Stat/Ridge-Hurdle-Negative-Binomial)
+3. **Evaluating estimator performance under multicollinearity: A trade-off between MSE and accuracy** (2025)
+   *Stats* 8(2), 45 · [DOI](https://doi.org/10.3390/stats8020045) · [PDF](papers/2025_1_Estimator_Performance_Multicollinearity.pdf) · [Code & data](https://github.com/Nayem-Stat/Binary-Ridge-MSE-Accuracy)
+4. **An unbiased convex estimator depending on prior information for the classical linear regression model** (2025)
+   *Stats* 8(1), 16 · [DOI](https://doi.org/10.3390/stats8010016) · [PDF](papers/2025_Conference_Prior_Distribution.pdf) · [Code & data](https://github.com/Nayem-Stat/Unbiased-Convex-Estimator)
 
-2. **"Assessing the Influence of Managed Lane Separation Type on Lane Deviation"**
-   - *Transportation Research Record*
-   - Co-authors: Mwambeleko, E., Alluri, P.
-   - [📥 Download PDF](papers/2026_2_Managed_Lane_Separation.pdf)
-
-3. **"Predicting Injury Severity of Work Zone Crashes Along Florida Freeways"**
-   - *Transportation Research Record*
-   - Co-authors: Shita, H., Alluri, P.
-   - [📥 Download PDF](papers/2026_3_Work_Zone_Injury_Severity.pdf)
-
-### Current Research Projects
-- **AI Applications to Transportation Safety** (FDOT, 2025-2026)
-- **WWD Countermeasures Evaluation** (FDOT, 2025-2026)
-- **Driver Behavior on Managed Lanes** (FDOT, 2024-2025)
+[See all publications →](PUBLICATIONS.md)
 
 ---
 
@@ -68,76 +52,48 @@ Feature selection • Dimension reduction • Deep learning • Big data analyti
 
 | Section | Link | Content |
 |---------|------|---------|
-| 📄 **Resume** | [Full Resume](README.md) | Complete CV and professional experience |
-| 📚 **All Publications** | [Publications](PUBLICATIONS.md) | 7 journal papers + 9 conference presentations |
-| 🎤 **Presentations** | [Conference Talks](PRESENTATIONS.md) | Detailed presentation history and abstracts |
-| 🔬 **Research Projects** | [Projects](PROJECTS.md) | Current and completed research initiatives |
-| 🛠️ **Technical Skills** | [Skills](SKILLS.md) | Programming languages and tools |
-| 📊 **Papers & Data** | [GitHub Repos](README.md#-github-repositories) | Access to research repositories |
-
----
-
-## 📈 Research Statistics
-
-```
-Publications:     7 peer-reviewed papers
-Presentations:    9 conference talks
-Collaborators:    5+ active research partners
-Projects:         6 major research projects
-Citations:        Growing impact in transportation safety and statistics
-```
-
----
-
-## 🏆 Recent Awards (2024-2026)
-
-- **2026** | Symposium on Data Science & Statistics: Student & Early Career Scholarship
-- **2026** | ASA South Florida Student Data Challenge: Honorable Mention (Top 30%)
-- **2025** | Quality and Productivity Research Conference: Travel Scholarship Winner
-- **2024** | Certificate of Appreciation for Outstanding Accomplishment (FIU)
-- **2024** | Highway Safety Information System: 1st and 2nd Place Student Research Awards
-
----
-
-## 🤝 Professional Involvement
-
-**Memberships:**
-- American Statistical Association (ASA)
-- Institute of Transportation Engineers (ITE)
-- American Society of Civil Engineers (ASCE)
-
-**Peer Review Experience:**
-- Transportation Research Board (TRB) Annual Meeting
-- Frontiers in Epidemiology Journal
-- **Risk and Decision Analysis Journal** ⭐ *New*
-
-**Volunteer Work:**
-- FIFA World Cup 2026
-- Annual Conference in Statistics (2025)
-- ASCE Miami-Dade Field Day (2024)
+| 📄 **Resume** | [Full Resume](README.md) | Education, experience, skills, awards |
+| 📚 **Publications** | [Publications](PUBLICATIONS.md) | 17 published + 8 under review |
+| 🎤 **Presentations** | [Presentations](PRESENTATIONS.md) | 23 conference talks |
+| 🔬 **Projects** | [Projects](PROJECTS.md) | Funded projects and open-source code |
+| 🛠️ **Skills** | [Skills](SKILLS.md) | Programming, statistical and ML methods |
+| 💻 **Code** | [GitHub](https://github.com/Nayem-Stat) | Reproducible code and data for my papers |
 
 ---
 
 ## 💼 Experience Timeline
 
-| Period | Role | Organization | Focus |
-|--------|------|--------------|-------|
-| 2024–Present | Graduate Research Assistant | Florida International University | FDOT projects, statistical modeling |
-| 2023–2024 | Graduate Teaching Assistant | Florida International University | Statistics instruction |
-| 2023 | Business & Data Analyst | Noyaborga Limited | Cloud data solutions |
-| 2022 | Research & Data Analyst | Socioconsult Limited | M&E, business intelligence |
+| Period | Role | Organization |
+|--------|------|--------------|
+| Aug 2026 – Present | Graduate Teaching Assistant | Department of Mathematics and Statistics, FIU |
+| Dec 2023 – Aug 2026 | Graduate Research Assistant | Lehman Center for Transportation Research, FIU |
+| Aug 2023 – Dec 2023 | Graduate Teaching Assistant | Department of Mathematics and Statistics, FIU |
+| Dec 2022 – Aug 2023 | Business and Data Analyst | Noyaborga Limited, Dhaka |
+| Jan 2022 – Dec 2022 | Research and Data Analyst | Socioconsult Limited, Dhaka |
 
 ---
 
-## 🎓 Current Education
+## 🎓 Education
 
-**Ph.D. in Mathematical Sciences (Statistics Track)**  
-Florida International University | Aug 2024 – Dec 2027
+| Degree | Institution | Location | Timeline |
+|--------|-------------|----------|----------|
+| **PhD Candidate, Applied Mathematics (Statistics)** | Florida International University | Miami, FL | Expected 2028 |
+| **MS, Statistics** | Florida International University | Miami, FL | Fall 2026 |
+| **MS, Statistics** | Jahangirnagar University | Bangladesh | Fall 2021 |
+| **BS, Statistics** | Jahangirnagar University | Bangladesh | Fall 2019 |
 
-Previous Degrees:
-- **M.S. Statistics** | Florida International University | Dec 2026
-- **M.S. Statistics** | Jahangirnagar University | Dec 2021
-- **B.S. Statistics** | Jahangirnagar University | Dec 2019
+---
+
+## 🏆 Recent Awards
+
+- **2026–2031** | Data Science Professional Certification (DSP), American Statistical Association
+- **2026** | Symposium on Data Science & Statistics (SDSS): Student & Early Career Scholarship
+- **2026** | ASA South Florida Student Data Challenge: Certificate of Honorable Mention (Top 30%)
+- **2025–26** | Outstanding Leadership Award, Department of Civil and Environmental Engineering, FIU (RSO Representative, ITE Student Chapter)
+- **2025** | Quality and Productivity Research Conference (QPRC 2025) Travel Scholarship
+- **2024** | Certificate of Appreciation for Outstanding Accomplishment (AY 2023–2024), Department of Civil and Environmental Engineering, FIU
+- **2024** | 1st and 2nd Place, Highway Safety Information System (HSIS) Student Research Paper Competition
+- **2019** | National Science and Technology Fellowship, Bangladesh
 
 ---
 
@@ -145,69 +101,10 @@ Previous Degrees:
 
 - **Email:** hnayem@fiu.edu
 - **Phone:** +1 (786) 836-9846
-- **GitHub:** [Nayem4954](https://github.com/Nayem4954)
-- **LinkedIn:** [HM Nayem](https://linkedin.com/in/hm-nayem)
-- **Google Scholar:** [Research Profile](https://scholar.google.com/citations?user=)
-- **GitHub Repositories:**
-  - [Papers Published](https://github.com/Nayem4954/papers-published) - Private
-  - [Head-On Crash](https://github.com/Nayem4954/head-on-crash) - Private
-  - [Human Factor](https://github.com/Nayem4954/human-factor) - Private
+- **LinkedIn:** [linkedin.com/in/hm-nayem-9039b2248](https://www.linkedin.com/in/hm-nayem-9039b2248/)
+- **Google Scholar:** [HM Nayem](https://scholar.google.com/citations?user=F09k_p4AAAAJ&hl=en&oi=ao)
+- **GitHub:** [github.com/Nayem-Stat](https://github.com/Nayem-Stat)
 
 ---
 
-## 🔬 Research Expertise Matrix
-
-```
-High-Dimensional Regression    ████████████████████ Expert
-Transportation Safety         ████████████████████ Expert
-Statistical Inference         ████████████████████ Expert
-Machine Learning             ████████████░░░░░░░░ Advanced
-Data Visualization           ████████████░░░░░░░░ Advanced
-Cloud Analytics              ████████████░░░░░░░░ Advanced
-```
-
----
-
-## 📖 How to Use This Portfolio
-
-1. **Get to know me:** Start with the [Full Resume](README.md)
-2. **See my publications:** Check [Publications](PUBLICATIONS.md)
-3. **Learn about my talks:** View [Conference Presentations](PRESENTATIONS.md)
-4. **Understand my projects:** Explore [Research Projects](PROJECTS.md)
-5. **Check my skills:** Review [Technical Skills](SKILLS.md)
-6. **Access my code:** Visit my [GitHub Repositories](https://github.com/Nayem4954)
-
----
-
-## 📞 Get In Touch
-
-Whether you're interested in collaboration, have questions about my research, or want to discuss transportation safety and statistical methodology, feel free to reach out!
-
-**📧 Email:** hnayem@fiu.edu  
-**📱 Phone:** +1 (786) 836-9846  
-**🔗 LinkedIn:** [Connect with me](https://linkedin.com)
-
----
-
-**Last Updated:** August 27, 2026
-
-
----
-
-## 📚 Complete Publication Portfolio
-
-### **16 Published Papers + 9 Presentations**
-
-**📄 [VIEW COMPLETE PORTFOLIO](COMPLETE_PUBLICATIONS.md)** - All 16 papers with full details and download links
-
-#### Papers by Category:
-- **Statistical Methodology:** 8 papers on regression, estimation, and inference
-- **Transportation Safety:** 5 papers on crashes, driver behavior, and safety
-- **Machine Learning:** 3 papers on prediction and data analysis
-
-#### Conference Presentations:
-- **2026:** 3 presentations (SDSS, ASA, TRB)
-- **2025:** 6 presentations (JSM, QPRC, ICTAD)
-- **Impact:** National and international venues
-
----
+*Last Updated: November 2026*
