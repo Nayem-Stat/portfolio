@@ -1,452 +1,63 @@
 ---
 layout: default
-title: Complete Publication & Presentation Portfolio
+title: Complete Publication List
 ---
 
-# 📚 Complete Publication & Presentation Portfolio (16 Papers + 9 Presentations)
+# Publications
 
-**Last Updated:** August 27, 2026  
-**Total Publications:** 16 peer-reviewed papers + 9 conference presentations  
-**Research Span:** 2024-2026
+My research develops and evaluates **regularized and shrinkage estimators**, **count-data models** and **high-dimensional prediction methods**, and applies statistical and machine learning models to real-world data. Code and data for most methodological papers are on [GitHub](https://github.com/Nayem-Stat). Citation metrics are on [Google Scholar](https://scholar.google.com/citations?user=F09k_p4AAAAJ&hl=en&oi=ao).
 
----
-
-## 🏆 ALL 16 PUBLISHED PAPERS
-
-### 📖 Paper 1: Mean Estimator Study
-- **Title:** [Mean Estimation Research]
-- **File:** `Paper_01_Mean_Estimator.pdf`
-- **Year:** 2024-2025
-- **Download:** [📥 Download PDF](papers/Paper_01_Mean_Estimator.pdf)
-- **Topics:** Mean estimation, statistical inference, unbiased estimators
-- **Type:** Peer-reviewed journal article
+**Summary:** 17 published (10 in statistical methodology, 7 applied) · 8 under review
 
 ---
 
-### 📖 Paper 2: Ridge Regression Methods
-- **Title:** Ridge Regression Analysis
-- **File:** `Paper_02_Ridge_Regression.pdf`
-- **Year:** 2024-2025
-- **Download:** [📥 Download PDF](papers/Paper_02_Ridge_Regression.pdf)
-- **Topics:** Ridge regression, regularization, multicollinearity handling
-- **Type:** Peer-reviewed journal article
-- **Keywords:** Ridge estimation, bias-variance tradeoff, penalty methods
+## 📚 Peer-Reviewed Journal Articles, Proceedings & Reports
+
+1. **Nayem, H., & Kibria, B. M. G. (2026).** A novel Ridge-Hurdle Poisson model for addressing multicollinearity in zero-inflated count data. *Communications in Statistics – Simulation and Computation*, 1–20. [DOI](https://doi.org/10.1080/03610918.2025.2610985) · [PDF](papers/2026_1_Ridge-Hurdle_Poisson_Model.pdf) · [Code & data](https://github.com/Nayem-Stat/Ridge-Hurdle-Poisson)
+2. **Mwambeleko, E., Nayem, H., & Alluri, P. (2026).** Assessing the influence of managed lane separation type on lane deviation. *Transportation Research Record*, 03611981261433871. [PDF](papers/2026_2_Managed_Lane_Separation.pdf)
+3. **Shita, H., Nayem, H., & Alluri, P. (2026).** Predicting injury severity of work zone crashes along Florida freeways. *Transportation Research Record*, 2680(1), 550–567. [PDF](papers/2026_3_Work_Zone_Injury_Severity.pdf)
+4. **Mwambeleko, E., Alluri, P., Sando, T., Nayem, H., Aida, A., & Matyenyi, J. (2026).** Analysis of crashes involving micromobility devices. *Transportation Research Record*, 2680(1), 730–747. [PDF](papers/2026_4_Micromobility_Crashes.pdf)
+5. **Nayem, H., Aziz, S., & Kibria, B. M. G. (2025).** Evaluating estimator performance under multicollinearity: A trade-off between MSE and accuracy in logistic, lasso, elastic net, and ridge regression with varying penalty parameters. *Stats*, 8(2), 45. [DOI](https://doi.org/10.3390/stats8020045) · [PDF](papers/2025_1_Estimator_Performance_Multicollinearity.pdf) · [Code & data](https://github.com/Nayem-Stat/Binary-Ridge-MSE-Accuracy)
+6. **Nayem, H., & Kibria, B. M. G. (2025).** The Ridge-Hurdle negative binomial regression model: A novel solution for zero-inflated counts in the presence of multicollinearity. *Stats*, 8(4), 102. [DOI](https://doi.org/10.3390/stats8040102) · [PDF](papers/Paper_06_Hurdle_Negative_Binomial.pdf) · [Code & data](https://github.com/Nayem-Stat/Ridge-Hurdle-Negative-Binomial)
+7. **Aziz, S., Nayem, H., & Kibria, B. M. G. (2025).** Sample size requirements for the central limit theorem for skewed distributions: A simulation study. *Journal of Statistical Modeling and Analytics (JOSMA)*, 7(2), 16–31. [DOI](https://doi.org/10.22452/josma.vol7no2.2) · [PDF](papers/Paper_04_Sample_Size.pdf)
+8. **Alheety, M. I., Nayem, H., & Kibria, B. M. G. (2025).** An unbiased convex estimator depending on prior information for the classical linear regression model. *Stats*, 8(1), 16. [DOI](https://doi.org/10.3390/stats8010016) · [PDF](papers/2025_Conference_Prior_Distribution.pdf) · [Code & data](https://github.com/Nayem-Stat/Unbiased-Convex-Estimator)
+9. **Alluri, P., Abou-Senna, H., Mwambeleko, E., Ahmed, S., Nayem, H., & Gupta, A. (2025).** Human factors study to understand driver behavior on managed lane facilities. Technical report, Florida Department of Transportation.
+10. **Kasubi, F., Nayem, H., & Alluri, P. (2025).** Analyzing the synergistic effects of TSMO strategies for quicker speed recovery after incidents. *International Conference on Transportation and Development 2025*, 470–480. [PDF](presentations/2025_ICTAD_TSMO_Strategies.pdf)
+11. **Aziz, S., Nayem, H., & Kibria, B. M. G. (2025).** A comparative evaluation of OLS, ridge and lasso in the presence of multicollinearity and outliers. *2025 JSM Proceedings*. [DOI](https://doi.org/10.5281/zenodo.17230601) · [PDF](presentations/2025_JSM_Prior_Based_Estimator.pdf)
+12. **Nayem, H., Aziz, S., & Kibria, B. M. G. (2025).** Robustness of ordinary least squares and ridge estimators in the presence of outliers: A simulation study. *2025 JSM Proceedings*. [DOI](https://doi.org/10.5281/zenodo.17173047) · [PDF](papers/2025_2_Robustness_OLS_Ridge_Estimators.pdf)
+13. **Alheety, M. I., Nayem, H., & Kibria, B. M. G. (2025).** A prior-information-based unbiased convex estimator for the classical linear regression model. *2025 JSM Proceedings*. [DOI](https://doi.org/10.5281/zenodo.17173188) · [PDF](presentations/2025_JSM_Convex_Estimator.pdf)
+14. **Kasubi, F., Mdimi, O., Nayem, H., Mwambeleko, E., Shita, H., & Venkata, S. S. G. (2024).** Deciphering seasonal weather impacts on crash severity: A machine learning approach. *ITE Journal*, 94, 39–46. [PDF](papers/2024_1_Weather_Impacts_Crash_Severity.pdf)
+15. **Nayem, H., Aziz, S., & Kibria, B. M. G. (2024).** Comparison among ordinary least squares, ridge, lasso, and elastic net estimators in the presence of outliers: Simulation and application. *International Journal of Statistical Sciences*, 24(2), 25–48. [DOI](https://doi.org/10.3329/ijss.v24i20.78212) · [PDF](papers/Paper_02_Ridge_Regression.pdf) · [Code & data](https://github.com/Nayem-Stat/Ridge-Regression-Outliers)
+16. **Nayem, H., & Kibria, B. M. G. (2024).** A simulation study on some confidence intervals for estimating the population mean under asymmetric and symmetric distribution conditions. *Journal of Statistics Applications & Probability Letters*, 11(3), 123–144. [DOI](https://doi.org/10.18576/jsapl/110303) · [PDF](papers/Paper_01_Mean_Estimator.pdf) · [Code & data](https://github.com/Nayem-Stat/Estimating-Population-Mean)
+17. **Alluri, P., Garupal, H., Nayem, H., Shita, H., & Angel, M. (2024).** Strategies to address head-on crashes. Technical report, Florida Department of Transportation.
 
 ---
 
-### 📖 Paper 3: Multicollinearity & MSE Accuracy
-- **Title:** Evaluating Estimator Performance Under Multicollinearity
-- **Authors:** Nayem, H., Aziz, S., & Kibria, B. M. G.
-- **Year:** 2025
-- **File:** `2025_1_Estimator_Performance_Multicollinearity.pdf`
-- **Download:** [📥 Download PDF](papers/2025_1_Estimator_Performance_Multicollinearity.pdf)
-- **Journal:** Stats
-- **Topics:** Regression methods, multicollinearity, model evaluation, MSE analysis
-- **Type:** Peer-reviewed journal article
-- **Impact:** Comprehensive comparison of OLS, Ridge, Lasso, Elastic Net
+## 📝 Papers Under Peer Review
+
+1. **Nayem, H., & Kibria, B. M. G.** Integrating machine learning and regularization for high-dimensional linear model: Simulation and application. *Communications in Statistics – Simulation and Computation*.
+2. **Nayem, H., & Kibria, B. M. G.** A unified shrinkage framework for zero-inflated and overdispersed count models under multicollinearity. *Sankhya B*.
+3. **Nayem, H., & Kibria, B. M. G.** Regularized and machine learning methods in sparse high-dimensional regression: Simulation and application. *Computational Statistics*.
+4. **Nayem, H., Kibria, B. M. G., & Vazquez, R.** Shrinkage estimation in Waring regression under multicollinearity and overdispersion: A simulation and application. *Communications in Statistics – Theory and Methods*.
+5. **Nayem, H., & Kibria, B. M. G.** Feature screening and ridge-type prediction for high-dimensional regression. *Journal of Statistical Computation and Simulation*.
+6. **Nayem, H., & Kibria, B. M. G.** Matching selection to model: Obesity prediction from high-dimensional gene expression data. *Statistics in Medicine*. ([code & data](https://github.com/Nayem-Stat/High-Dimensional-Gene-Expression-Data))
+7. **Soltaninejad, M., Nayem, H., & Alluri, P.** Modeling crash frequency at highway-rail grade crossings (HRGCs) in rural and urban areas. *Traffic Injury Prevention*.
+8. **Kasubi, F., Mdimi, O., & Nayem, H.** Weather effects on injury severity in undivided rural two-lane horizontal curve crashes using machine learning techniques with SHapley Additive Explanations. *IATSS Research*.
 
 ---
 
-### 📖 Paper 4: Sample Size Determination
-- **Title:** Sample Size and Statistical Power Analysis
-- **File:** `Paper_04_Sample_Size.pdf`
-- **Year:** 2024-2025
-- **Download:** [📥 Download PDF](papers/Paper_04_Sample_Size.pdf)
-- **Journal:** JOSMA
-- **Topics:** Sample size calculation, power analysis, experimental design
-- **Type:** Peer-reviewed journal article
+## 💻 Code & Data for My Papers
+
+| Repository | Paper | Venue |
+|------------|-------|-------|
+| [Ridge-Hurdle-Poisson](https://github.com/Nayem-Stat/Ridge-Hurdle-Poisson) | A novel Ridge-Hurdle Poisson model for multicollinearity in zero-inflated count data | *Commun. Stat. – Simul. Comput.* (2026) |
+| [Ridge-Hurdle-Negative-Binomial](https://github.com/Nayem-Stat/Ridge-Hurdle-Negative-Binomial) | The Ridge-Hurdle negative binomial regression model | *Stats* (2025) |
+| [Binary-Ridge-MSE-Accuracy](https://github.com/Nayem-Stat/Binary-Ridge-MSE-Accuracy) | Trade-off between MSE and accuracy in logistic, lasso, elastic net and ridge regression | *Stats* (2025) |
+| [Unbiased-Convex-Estimator](https://github.com/Nayem-Stat/Unbiased-Convex-Estimator) | An unbiased convex estimator depending on prior information | *Stats* (2025) |
+| [Ridge-Regression-Outliers](https://github.com/Nayem-Stat/Ridge-Regression-Outliers) | OLS, ridge, lasso and elastic net estimators in the presence of outliers | *Int. J. Stat. Sci.* (2024) |
+| [Estimating-Population-Mean](https://github.com/Nayem-Stat/Estimating-Population-Mean) | Confidence intervals for the population mean under asymmetric and symmetric distributions | *J. Stat. Appl. Probab. Lett.* (2024) |
+| [High-Dimensional-Gene-Expression-Data](https://github.com/Nayem-Stat/High-Dimensional-Gene-Expression-Data) | Obesity prediction from high-dimensional gene expression data (p ≫ n) | Under review |
 
 ---
 
-### 📖 Paper 5: Ridge-Hurdle Poisson Model
-- **Title:** A novel Ridge-Hurdle Poisson model for addressing multicollinearity in zero-inflated count data
-- **Authors:** Nayem, H., & Kibria, B. M. G.
-- **Year:** 2026
-- **File:** `2026_1_Ridge-Hurdle_Poisson_Model.pdf`
-- **Download:** [📥 Download PDF](papers/2026_1_Ridge-Hurdle_Poisson_Model.pdf)
-- **Journal:** Communications in Statistics-Simulation and Computation
-- **Volume/Pages:** 1-20
-- **Topics:** Ridge regression, Hurdle Poisson models, zero-inflated data, multicollinearity
-- **Type:** Peer-reviewed journal article
-- **Innovation:** Novel methodological framework combining regularization with hurdle models
-
----
-
-### 📖 Paper 6: Hurdle Negative Binomial Model
-- **Title:** Hurdle Negative Binomial Regression Framework
-- **File:** `Paper_06_Hurdle_Negative_Binomial.pdf`
-- **Year:** 2024-2025
-- **Download:** [📥 Download PDF](papers/Paper_06_Hurdle_Negative_Binomial.pdf)
-- **Journal:** Stats
-- **Topics:** Hurdle models, negative binomial regression, zero-inflated count data
-- **Type:** Peer-reviewed journal article
-
----
-
-### 📖 Paper 7: Prior Information in Linear Regression
-- **Title:** A Prior-Information-Based Unbiased Convex Estimator for the Classical Linear Regression Model
-- **Authors:** Nayem, H., & Kibria, B. M. G.
-- **Year:** 2025
-- **File:** `2025_Conference_Prior_Distribution.pdf`
-- **Download:** [📥 Download PDF](papers/2025_Conference_Prior_Distribution.pdf)
-- **Topics:** Bayesian methods, convex estimation, prior specification, linear regression
-- **Type:** Conference proceeding / Journal publication
-- **Innovation:** Incorporates historical data and expert knowledge without bias
-
----
-
-### 📖 Paper 8: Robustness of OLS and Ridge Estimators
-- **Title:** Robustness of Ordinary Least Squares and Ridge Estimators in the Presence of Outliers: A Simulation Study
-- **Authors:** Nayem, H., Aziz, S., & Kibria, B. M. G.
-- **Year:** 2025
-- **File:** `2025_2_Robustness_OLS_Ridge_Estimators.pdf`
-- **Download:** [📥 Download PDF](papers/2025_2_Robustness_OLS_Ridge_Estimators.pdf)
-- **Journal:** 2025 JSM Proceedings
-- **DOI:** https://doi.org/10.5281/zenodo.17173047
-- **Topics:** Outlier detection, regression robustness, simulation studies, statistical inference
-- **Type:** Peer-reviewed conference proceedings
-- **Impact:** Provides guidance on method selection under outlier conditions
-
----
-
-### 📖 Paper 9: Weather Impacts on Crash Severity
-- **Title:** Deciphering Seasonal Weather Impacts on Crash Severity: A Machine Learning Approach
-- **Authors:** Kasubi, F., Mdimi, O., Nayem, H., Mwambeleko, E., Shita, H., & Venkata, S. S. G.
-- **Year:** 2024
-- **File:** `2024_1_Weather_Impacts_Crash_Severity.pdf`
-- **Download:** [📥 Download PDF](papers/2024_1_Weather_Impacts_Crash_Severity.pdf)
-- **Journal:** Institute of Transportation Engineers Journal
-- **Volume:** 94, Pages: 39-46
-- **Topics:** Machine learning, weather impacts, crash severity, transportation safety
-- **Type:** Peer-reviewed journal article
-- **Keywords:** ML algorithms, weather patterns, safety prediction
-
----
-
-### 📖 Paper 10: TSMO Strategies for Speed Recovery
-- **Title:** Analyzing the Synergistic Effects of TSMO Strategies for Quicker Speed Recovery after Incidents
-- **Authors:** Kasubi, F., Nayem, H., & Alluri, P.
-- **Year:** 2025
-- **File:** `2025_ICTAD_TSMO_Strategies.pdf`
-- **Download:** [📥 Download PDF](presentations/2025_ICTAD_TSMO_Strategies.pdf)
-- **Conference:** International Conference on Transportation and Development 2025
-- **Pages:** 470-480
-- **Topics:** TSMO strategies, incident management, speed recovery, traffic operations
-- **Type:** Conference proceedings
-- **Impact:** Quantified effectiveness of integrated incident response systems
-
----
-
-### 📖 Paper 11: Managed Lane Separation Type & Lane Deviation
-- **Title:** Assessing the Influence of Managed Lane Separation Type on Lane Deviation
-- **Authors:** Mwambeleko, E., Nayem, H., & Alluri, P.
-- **Year:** 2026
-- **File:** `2026_2_Managed_Lane_Separation.pdf`
-- **Download:** [📥 Download PDF](papers/2026_2_Managed_Lane_Separation.pdf)
-- **Journal:** Transportation Research Record
-- **DOI:** 03611981261433871
-- **Topics:** Transportation, managed lanes, lane deviation, driver behavior, safety analysis
-- **Type:** Peer-reviewed journal article
-- **Keywords:** Driver behavior, managed facilities, lane control, traffic safety
-
----
-
-### 📖 Paper 12: Work Zone Injury Severity Prediction
-- **Title:** Predicting Injury Severity of Work Zone Crashes Along Florida Freeways
-- **Authors:** Shita, H., Nayem, H., & Alluri, P.
-- **Year:** 2026
-- **File:** `2026_3_Work_Zone_Injury_Severity.pdf`
-- **Download:** [📥 Download PDF](papers/2026_3_Work_Zone_Injury_Severity.pdf)
-- **Journal:** Transportation Research Record
-- **Volume:** 2680(1), Pages: 550-567
-- **Topics:** Work zone safety, injury severity prediction, machine learning applications, risk assessment
-- **Type:** Peer-reviewed journal article
-- **Keywords:** ML models, injury prediction, work zone safety, Florida freeways
-
----
-
-### 📖 Paper 13: Micromobility Crashes Analysis
-- **Title:** Analysis of Crashes Involving Micromobility Devices
-- **Authors:** Mwambeleko, E., Nayem, H., & others
-- **Year:** 2026
-- **File:** `2026_4_Micromobility_Crashes.pdf`
-- **Download:** [📥 Download PDF](papers/2026_4_Micromobility_Crashes.pdf)
-- **Topics:** Micromobility, crash analysis, safety factors, emerging transportation modes
-- **Type:** Peer-reviewed journal article
-- **Keywords:** E-scooters, bikes, shared mobility, crash patterns
-
----
-
-### 📖 Paper 14: JSM 2025 Convex Estimator Proceeding
-- **Title:** A Prior-Information-Based Convex Estimator (JSM Proceeding)
-- **Authors:** Nayem, H., & Kibria, B. M. G.
-- **Year:** 2025
-- **File:** `2025_JSM_Convex_Estimator.pdf`
-- **Download:** [📥 Download PDF](presentations/2025_JSM_Convex_Estimator.pdf)
-- **Conference:** 2025 Joint Statistical Meeting
-- **Topics:** Convex estimation, Bayesian methods, regression, theoretical statistics
-- **Type:** Conference proceedings
-- **Award:** Presented at JSM, major statistics conference
-
----
-
-### 📖 Paper 15: JSM 2025 Robustness Ridge Proceeding
-- **Title:** Robustness of OLS, Ridge, Lasso, and Elastic Net (JSM Proceeding)
-- **Authors:** Nayem, H., Aziz, S., & Kibria, B. M. G.
-- **Year:** 2025
-- **File:** `2025_JSM_Robustness_Ridge.pdf`
-- **Download:** [📥 Download PDF](presentations/2025_JSM_Robustness_Ridge.pdf)
-- **Conference:** 2025 Joint Statistical Meeting
-- **Topics:** Regression robustness, outlier effects, simulation, comparative analysis
-- **Type:** Conference proceedings
-- **Impact:** Major presentation at national statistics conference
-
----
-
-### 📖 Paper 16: JSM 2025 Main Proceeding
-- **Title:** JSM 2025 Main Conference Proceeding
-- **Authors:** Nayem, H., & others
-- **Year:** 2025
-- **File:** `2025_JSM_Prior_Based_Estimator.pdf` 
-- **Download:** [📥 Download PDF](presentations/2025_JSM_Prior_Based_Estimator.pdf)
-- **Conference:** 2025 Joint Statistical Meeting (Nashville, TN)
-- **Topics:** Statistical methodology, prior specification, regression methods
-- **Type:** Conference proceedings
-- **Audience:** National audience at premier statistics conference
-
----
-
----
-
-## 🎤 ALL 9+ CONFERENCE PRESENTATIONS
-
-### 1️⃣ SDSS 2026 Presentation
-- **Conference:** Symposium on Data Science & Statistics (SDSS 2026)
-- **Date:** April 29, 2026
-- **Location:** Milwaukee, Wisconsin
-- **Title:** "Evaluating Ridge Penalties for High-Dimensional Linear Models Under Multicollinearity"
-- **Authors:** Nayem, H., & Kibria, B. M. G.
-- **Type:** Contributed Talk
-- **Award:** ⭐ Student & Early Career Scholarship
-- **Topics:** Ridge regression, high-dimensional models, penalty selection
-- **Abstract:** Comprehensive evaluation of ridge regression penalty selection methods. Compares cross-validation, generalized cross-validation, and information criteria approaches for optimal penalty parameter selection in high-dimensional settings.
-- **Status:** ✅ Presented
-
----
-
-### 2️⃣ ASA Florida Chapter Meeting 2026
-- **Conference:** 2026 Annual ASA Florida Chapter Meeting
-- **Date:** March 7, 2026
-- **Location:** Florida International University, Miami, Florida
-- **Title:** "A Regularized Hurdle Framework for Addressing Multicollinearity in Zero-inflated Count Data"
-- **Authors:** Nayem, H., & Kibria, B. G. M.
-- **Type:** Contributed Talk
-- **Topics:** Regularization, hurdle models, zero-inflation, multicollinearity
-- **Abstract:** Introduction of novel regularized hurdle model framework combining hurdle regression with ridge regularization for zero-inflated count data under multicollinearity conditions.
-- **Key Contributions:** New methodological framework, theoretical properties, software implementation
-- **Status:** ✅ Presented
-
----
-
-### 3️⃣ TRB 2026 Annual Meeting
-- **Conference:** 105th Annual Meeting of the Transportation Research Board (TRB 2026)
-- **Date:** January 13, 2026
-- **Location:** Washington, DC
-- **Title:** "Exploring Factors Influencing Near-Crashes on Managed Lanes"
-- **Authors:** Mwambeleko, E., Nayem, H., & Alluri, P.
-- **Type:** Contributed Paper
-- **Topics:** Near-crash analysis, managed lanes, driver behavior, safety factors
-- **Abstract:** Comprehensive analysis of near-crash incidents on managed lane facilities to identify contributing factors and safety implications. Uses naturalistic driving data and statistical modeling.
-- **Published:** Transportation Research Record (2026)
-- **Status:** ✅ Presented
-
----
-
-### 4️⃣ ICTAD 2025 Conference
-- **Conference:** International Conference on Transportation and Development 2025
-- **Date:** 2025
-- **Title:** "Analyzing the Synergistic Effects of TSMO Strategies for Quicker Speed Recovery after Incidents"
-- **Authors:** Kasubi, F., Nayem, H., & Alluri, P.
-- **Pages:** 470-480
-- **Type:** Conference Proceedings Paper
-- **Topics:** TSMO strategies, incident management, speed recovery, integrated systems
-- **Abstract:** Examines combined effects of Traffic Systems Management and Operations (TSMO) strategies in accelerating speed recovery following incidents. Quantifies effectiveness of integrated incident response systems on I-95 corridor.
-- **Key Findings:**
-  - Synergistic effects of multiple strategies
-  - Quantified speed recovery improvements
-  - Cost-benefit analysis results
-  - Implementation recommendations
-- **Download:** [📥 Download PDF](presentations/2025_ICTAD_TSMO_Strategies.pdf)
-- **Status:** ✅ Published in proceedings
-
----
-
-### 5️⃣ JSM 2025 - Robustness Study
-- **Conference:** 2025 Joint Statistical Meeting (JSM 2025)
-- **Date:** August 5, 2025
-- **Location:** Nashville, Tennessee
-- **Title:** "Robustness of OLS, Ridge, Lasso, and Elastic Net in the Presence of Outliers: Simulation and Application"
-- **Authors:** Nayem, H., Aziz, S., & Kibria, B. M. G.
-- **Type:** Contributed Talk
-- **Topics:** Regression methods, outlier robustness, simulation studies, comparative analysis
-- **Abstract:** Comprehensive simulation study comparing robustness of ordinary least squares (OLS), ridge, Lasso, and elastic net methods under different outlier conditions. Evaluates multiple robustness metrics and provides practical recommendations.
-- **Methodology:**
-  - Controlled simulation experiments
-  - Multiple outlier scenarios (5%, 10%, 15%, 20%)
-  - Robustness metrics comparison
-  - Real-world application examples
-- **Key Results:**
-  - Performance rankings under outlier conditions
-  - Penalty parameter sensitivity analysis
-  - Method selection guidance for practitioners
-- **Download:** [📥 Download PDF](presentations/2025_JSM_Robustness_Ridge.pdf)
-- **Status:** ✅ Presented
-
----
-
-### 6️⃣ QPRC 2025 Conference
-- **Conference:** Quality and Productivity Research Conference (QPRC 2025)
-- **Date:** June 16, 2025
-- **Location:** University of Washington, Seattle, Washington
-- **Title:** "A Prior-Information-Based Unbiased Convex Estimator for the Classical Linear Regression Model"
-- **Authors:** Nayem, H., & Kibria, B. M. G.
-- **Type:** Contributed Talk
-- **Award:** ⭐ Travel Scholarship Winner
-- **Topics:** Convex estimation, Bayesian methods, regression, unbiased estimation
-- **Abstract:** Proposes novel convex estimator incorporating prior information into classical linear regression without sacrificing unbiasedness. Particularly useful when prior beliefs about regression parameters are available from previous studies or expert knowledge.
-- **Innovation:**
-  - New theoretical framework combining Bayesian and frequentist approaches
-  - Asymptotic properties derivation
-  - Simulation and empirical validation
-- **Applications:**
-  - Combines historical data effectively
-  - Improves estimation in small samples
-  - Maintains unbiasedness property
-  - Practical implementation strategies
-- **Download:** [📥 Download PDF](presentations/2025_JSM_Prior_Based_Estimator.pdf)
-- **Status:** ✅ Presented (Travel Scholarship Recipient)
-
----
-
-### 7️⃣ JSM 2025 - Convex Estimator Proceeding
-- **Conference:** 2025 Joint Statistical Meeting (JSM 2025)
-- **Date:** August 2025
-- **Location:** Nashville, Tennessee
-- **Title:** Prior-Information-Based Convex Estimator (Additional presentation)
-- **Authors:** Nayem, H., & Kibria, B. M. G.
-- **Type:** Conference Proceeding
-- **Topics:** Convex methods, Bayesian-frequentist hybrid, regression theory
-- **Status:** ✅ Proceedings published
-
----
-
-### 8️⃣ Additional 2026 Presentations
-- **Upcoming SDSS 2026** (April 2026)
-- **Upcoming ASA Meetings** (2026)
-- **TRB Annual Meeting** (January 2026)
-
----
-
-### 9️⃣ Additional Presentations
-- Multiple conference presentations at regional and national venues
-- Symposium presentations
-- Workshop presentations
-- Guest lectures
-
----
-
-## 📊 Publication Statistics
-
-| Metric | Count |
-|--------|-------|
-| **Total Published Papers** | 16 |
-| **Journal Articles** | 10 |
-| **Conference Proceedings** | 6 |
-| **Total Presentations** | 9+ |
-| **Years Published** | 2024-2026 |
-| **Co-Authors** | 8+ researchers |
-| **Funding Agencies** | FDOT, Asian Dev Bank |
-| **Research Topics** | 5+ areas |
-
----
-
-## 🔬 Research Topics Distribution
-
-### Statistical Methodology (8 papers)
-1. Ridge regression and regularization techniques
-2. Hurdle models for zero-inflated data
-3. Multicollinearity handling methods
-4. Robustness analysis under outliers
-5. Convex estimation methods
-6. Bayesian inference
-7. Sample size determination
-8. Mean estimation
-
-### Transportation Safety (5 papers)
-1. Crash severity prediction
-2. Work zone safety analysis
-3. Managed lane facility analysis
-4. Driver behavior patterns
-5. Micromobility crash analysis
-
-### Machine Learning Applications (3 papers)
-1. ML-based injury prediction
-2. Weather impact models
-3. TSMO strategy optimization
-
----
-
-## 📥 Download All Papers
-
-### Quick Links by Year
-
-**2026 Papers (4 papers):**
-- [📥 Ridge-Hurdle Poisson](papers/2026_1_Ridge-Hurdle_Poisson_Model.pdf)
-- [📥 Managed Lanes](papers/2026_2_Managed_Lane_Separation.pdf)
-- [📥 Work Zone Safety](papers/2026_3_Work_Zone_Injury_Severity.pdf)
-- [📥 Micromobility](papers/2026_4_Micromobility_Crashes.pdf)
-
-**2025 Papers (5 papers):**
-- [📥 Estimator Performance](papers/2025_1_Estimator_Performance_Multicollinearity.pdf)
-- [📥 Robustness Study](papers/2025_2_Robustness_OLS_Ridge_Estimators.pdf)
-- [📥 Prior Distribution](papers/2025_Conference_Prior_Distribution.pdf)
-- [📥 JSM Convex Estimator](presentations/2025_JSM_Convex_Estimator.pdf)
-- [📥 JSM Robustness](presentations/2025_JSM_Robustness_Ridge.pdf)
-
-**2024 Papers (1 paper):**
-- [📥 Weather Impacts](papers/2024_1_Weather_Impacts_Crash_Severity.pdf)
-
-**Additional Papers (5 papers):**
-- [📥 Mean Estimator](papers/Paper_01_Mean_Estimator.pdf)
-- [📥 Ridge Regression](papers/Paper_02_Ridge_Regression.pdf)
-- [📥 Sample Size](papers/Paper_04_Sample_Size.pdf)
-- [📥 Hurdle NB](papers/Paper_06_Hurdle_Negative_Binomial.pdf)
-- [📥 TSMO Strategies](presentations/2025_ICTAD_TSMO_Strategies.pdf)
-
----
-
-## ✅ Complete Verification
-
-| Component | Status | Count |
-|-----------|--------|-------|
-| Published Papers | ✅ Complete | 16 |
-| Conference Presentations | ✅ Complete | 9+ |
-| PDF Files | ✅ Complete | 13+ |
-| Download Links | ✅ Active | 16+ |
-| Full Descriptions | ✅ Complete | All |
-| Topics Indexed | ✅ Complete | 100% |
-
----
-
-## 🎯 How to Use This Portfolio
-
-1. **Read Papers:** Click any download link to view paper PDFs
-2. **Share Work:** Send links to colleagues or in applications
-3. **Cite Research:** Use full citations provided
-4. **Track Progress:** See your research output over time
-5. **Discover Connections:** Find related papers by topic
-
----
-
-*Last Updated: August 27, 2026*  
-**Portfolio Status:** ✅ Complete with all 16 papers and 9+ presentations
+*Last Updated: November 2026*
