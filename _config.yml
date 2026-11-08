@@ -1,13 +1,13 @@
 title: HM Nayem - Professional Portfolio
-description: Statistician | Data Scientist | Transportation Safety Researcher | Advanced Statistical Modeling & Machine Learning Expert
+description: Statistician | Data Scientist | Regularized Regression, Count-Data Models, High-Dimensional Data & Machine Learning
 theme: jekyll-theme-minimal
 show_downloads: false
 logo: assets/profile.png
 
 # Social Media
-github_username: Nayem4954
-linkedin_username: hm-nayem
-google_scholar: "https://scholar.google.com/citations?user="
+github_username: Nayem-Stat
+linkedin_username: hm-nayem-9039b2248
+google_scholar: "https://scholar.google.com/citations?user=F09k_p4AAAAJ&hl=en&oi=ao"
 email: hnayem@fiu.edu
 phone: "+1 (786) 836-9846"
 
@@ -27,9 +27,9 @@ navigation:
     url: /SKILLS/
 
 # Site Settings
-baseurl: ""
-url: "https://github.com/Nayem4954/portfolio"
-repository: Nayem4954/portfolio
+baseurl: "/portfolio"
+url: "https://nayem-stat.github.io"
+repository: Nayem-Stat/portfolio
 
 # Markdown
 markdown: kramdown
@@ -54,10 +54,6 @@ exclude:
   - vendor/ruby/
   - .git
   - .gitignore
-
-# Analytics
-analytics:
-  google: "UA-XXXXXXXXX-X"
 
 # Collections
 collections_dir: _pages
