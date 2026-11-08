@@ -6,202 +6,119 @@ permalink: /about/
 
 # About HM Nayem
 
-## 👋 Welcome
+**Statistician | Data Scientist**
 
-I'm a statistician and data scientist with a passion for solving real-world problems through rigorous quantitative analysis and advanced machine learning methods.
-
----
-
-## 📍 Background
-
-**Currently:** PhD Candidate, Mathematical Sciences (Statistics Track)  
-**School:** Florida International University, Miami, FL  
-**Expected Graduation:** December 2027
-
-**Education:**
-- PhD, Mathematical Sciences (Statistics) - *In Progress*
-- MS, Statistics - Florida International University (2026)
-- MS, Statistics - Jahangirnagar University, Bangladesh (2021)
-- BS, Statistics - Jahangirnagar University, Bangladesh (2019)
+I'm a statistician and data scientist with **5+ years of experience** in statistical modeling, machine learning and data analysis across research, government-funded projects and industry. I am a PhD candidate in Applied Mathematics (Statistics) at Florida International University, working with Dr. B M Golam Kibria on regularized and shrinkage estimation.
 
 ---
 
-## 🎯 Professional Mission
+## 🎯 Professional Summary
 
-To apply advanced statistical methods and machine learning to create data-driven solutions for transportation safety, public health, and business challenges.
-
-My work focuses on:
-- **Developing novel statistical methodologies** for complex real-world problems
-- **Applying machine learning** to predictive modeling and optimization
-- **Advancing transportation safety** through evidence-based research
-- **Publishing rigorous research** in peer-reviewed venues
-- **Mentoring emerging researchers** in statistics and data science
+Statistician and data scientist with **5+ years of experience** building statistical and machine learning models for real-world data in research, government-funded projects and industry. My methodological work focuses on **regularized and shrinkage estimation** (ridge, lasso, elastic net, ridge-hurdle and zero-inflated count models), **high-dimensional regression** and **simulation-based evaluation of estimators**. It has produced **17 publications**, **8 papers under review** and **23 conference presentations**. I hold the **ASA Data Science Professional (DSP)** certification (2026–2031).
 
 ---
 
-## 🔬 Research Expertise
+## 📚 Education
 
-### Statistical Methodology
-- Ridge regression and regularization techniques
-- Hurdle and zero-inflated models
-- High-dimensional data analysis
-- Robustness analysis and outlier detection
-- Bayesian inference
-
-### Machine Learning & Data Science
-- Classification and regression models
-- Ensemble methods (Random Forests, Gradient Boosting)
-- Deep learning with TensorFlow and PyTorch
-- Feature selection and dimension reduction
-- Time series analysis and forecasting
-
-### Domain Application
-- Transportation safety and crash modeling
-- Driver behavior analysis
-- Public health and epidemiology
-- Business analytics and optimization
-- Policy impact assessment
+| Degree | Institution | Location | Timeline |
+|--------|-------------|----------|----------|
+| **PhD Candidate, Applied Mathematics (Statistics)** | Florida International University | Miami, FL | Expected 2028 |
+| **MS, Statistics** | Florida International University | Miami, FL | Fall 2026 |
+| **MS, Statistics** | Jahangirnagar University | Bangladesh | Fall 2021 |
+| **BS, Statistics** | Jahangirnagar University | Bangladesh | Fall 2019 |
 
 ---
 
-## 💼 Professional Experience
+## 🔬 Research Interests
 
-### Graduate Research Assistant (2024-Present)
-**Florida International University** | Miami, FL
-
-Leading statistical and machine learning research for multiple FDOT-funded transportation safety projects. Responsibilities include:
-- Model development and validation
-- Manuscript preparation for peer-reviewed publications
-- Quantitative analysis and technical reporting
-- Project coordination and team collaboration
-
-### Graduate Teaching Assistant (2023)
-**Florida International University** | Miami, FL
-
-Instructed undergraduate statistics courses, provided tutoring support, and facilitated office hours helping students master statistical concepts.
-
-### Business and Data Analyst (2023)
-**Noyaborga Limited** | Dhaka, Bangladesh
-
-Applied statistical methods to data analysis projects, designed cloud-based data solutions, and built data pipelines for remote team collaboration.
-
-### Research and Data Analyst (2022)
-**Socioconsult Limited** | Dhaka, Bangladesh
-
-Designed data pipelines, conducted statistical analysis for international development projects, and produced business intelligence reports for strategic decision-making.
+- Regularization and shrinkage estimation under multicollinearity
+- Zero-inflated and overdispersed count models
+- High-dimensional and sparse regression (p ≫ n)
+- Machine learning and explainable AI for prediction
+- Simulation studies and robust statistical inference
 
 ---
 
-## 📚 Research Interests
+## 💼 Experience
 
-- Machine Learning & LLMs
-- High-Dimensional Data Analysis
-- Feature Selection & Dimension Reduction
-- Big Data Analytics
-- Transportation Safety
-- Statistical Inference
-- Quantitative Research Design
+### Graduate Teaching Assistant
+**Department of Mathematics and Statistics, Florida International University** | Miami, FL | Aug 2026 – Present
+- Tutor students in statistical methods, probability, hypothesis testing, regression analysis and data interpretation
+- Explain complex statistical concepts with clear examples and step-by-step problem solving
+- Give constructive feedback that strengthens students' statistical reasoning
+- Use statistical software and computational tools to demonstrate data analysis in class
 
----
+### Graduate Research Assistant
+**Lehman Center for Transportation Research, Florida International University** | Miami, FL | Dec 2023 – Aug 2026
+- Developed statistical and machine learning models in R, Stata and Python on large-scale research data
+- Performed quantitative analysis, data collection and report preparation for several FDOT-funded projects
+- Contributed to manuscript preparation for peer-reviewed journal articles
+- Managed multiple research projects at once, on time and to a high standard
 
-## 🏆 Achievements & Recognition
+### Graduate Teaching Assistant
+**Department of Mathematics and Statistics, Florida International University** | Miami, FL | Aug 2023 – Dec 2023
+- Taught statistics to undergraduates and improved student performance through tutoring and mentoring
+- Held office hours on complex statistical and mathematical concepts
 
-### Awards & Honors
-- 2026 Symposium on Data Science & Statistics: Student & Early Career Scholarship
-- 2026 ASA South Florida Student Data Challenge: Top 30% (Honorable Mention)
-- 2025 QPRC Travel Scholarship Winner
-- 2024 HSIS Student Research Paper Competition: 1st & 2nd Place
-- Certificate of Appreciation for Outstanding Accomplishment (FIU, 2024)
+### Business and Data Analyst
+**Noyaborga Limited (Private Start-Up)** | Dhaka, Bangladesh | Dec 2022 – Aug 2023
+- Applied statistical methods to analyze data for a project funded by the University of Tsukuba, Japan
+- Improved decision making with accurate data analysis and visualization
+- Streamlined data access for remote teams with cloud-based data management
+- Built data pipelines so information was available on time for decisions
 
-### Conference Presentations
-- 6+ presentations at national and international conferences
-- Active member of ASA, ITE, and ASCE
-- Peer reviewer for TRB and Frontiers in Epidemiology
-
----
-
-## 🛠️ Technical Skills
-
-### Programming Languages
-- **Advanced:** R, Python
-- **Intermediate:** SAS, SQL, Stata
-- **Proficient:** MATLAB, LaTeX, Bash
-
-### Data Tools
-- Databricks, Snowflake, Power BI, Tableau
-- AWS, Azure, Google Cloud Platform
-- ArcMap, Git, Docker
-
-### Statistical Methods
-- Regression analysis (OLS, Ridge, Lasso, Elastic Net)
-- Machine learning (supervised, unsupervised, deep learning)
-- High-dimensional data techniques
-- Bayesian inference
-- Time series analysis
+### Research and Data Analyst
+**Socioconsult Limited (Research Firm)** | Dhaka, Bangladesh | Jan 2022 – Dec 2022
+- Designed data pipelines and performed statistical analysis for projects funded by GRIPS (Japan) and the Asian Development Bank
+- Carried out monitoring and evaluation (M&E) and wrote analytical reports on project outcomes and performance metrics
+- Produced business reports that supported strategic decisions
 
 ---
 
-## 📖 Publications
+## 🏆 Awards & Honors
 
-7 peer-reviewed publications in top-tier journals and conferences:
-- Communications in Statistics
-- Transportation Research Record
-- Stats (MDPI)
-- Joint Statistical Meetings
-- International Conference on Transportation and Development
-
----
-
-## 🌍 International Experience
-
-- **Bangladesh:** Research and business analytics background
-- **Japan:** Collaboration with University of Tsukuba on data projects
-- **Global:** Participation in international conferences and collaborations
+- **2026–2031** | Data Science Professional Certification (DSP), American Statistical Association
+- **2026** | Symposium on Data Science & Statistics (SDSS): Student & Early Career Scholarship
+- **2026** | ASA South Florida Student Data Challenge: Certificate of Honorable Mention (Top 30%)
+- **2025–26** | Outstanding Leadership Award, Department of Civil and Environmental Engineering, FIU (RSO Representative, ITE Student Chapter)
+- **2025** | Quality and Productivity Research Conference (QPRC 2025) Travel Scholarship
+- **2024** | Certificate of Appreciation for Outstanding Accomplishment (AY 2023–2024), Department of Civil and Environmental Engineering, FIU
+- **2024** | 1st and 2nd Place, Highway Safety Information System (HSIS) Student Research Paper Competition
+- **2019** | National Science and Technology Fellowship, Bangladesh
 
 ---
 
-## 🎓 Mentorship & Academic Contribution
+## 👥 Leadership & Professional Involvement
 
-- Graduate-level research mentoring
-- Peer review of transportation research papers
-- Active participation in statistical seminars
-- Collaboration with interdisciplinary research teams
+**Leadership:**
+- President (AY 2026–2027), Statistics Club, ASA Student Chapter at FIU
+- RSO Representative (AY 2025–26), ITE Student Chapter at FIU
 
----
+**Membership:**
+- American Statistical Association (ASA), 2024 – Present
 
-## 💡 Philosophy
+**Peer Review:**
+- Transportation Research Board (TRB) Annual Meeting papers
+- *Frontiers in Epidemiology*
+- *Risk and Decision Analysis*
 
-I believe that rigorous statistical analysis combined with cutting-edge machine learning can drive meaningful improvements in public safety, policy effectiveness, and organizational performance. My approach emphasizes:
-
-✅ **Rigor:** Maintaining high standards of statistical validity  
-✅ **Relevance:** Solving problems that matter  
-✅ **Reproducibility:** Transparent methods and open science  
-✅ **Communication:** Making complex analyses understandable  
-✅ **Collaboration:** Working effectively with diverse teams  
-
----
-
-## 📬 Let's Connect
-
-I'm always interested in discussing research opportunities, collaborations, or interesting data science problems.
-
-**Contact:**
-- Email: hnayem@fiu.edu
-- Phone: +1 (786) 836-9846
-- LinkedIn: [HM Nayem](https://linkedin.com)
-- GitHub: [Nayem4954](https://github.com/Nayem4954)
-- Google Scholar: [Profile](https://scholar.google.com)
+**Volunteer Work:**
+- FIFA World Cup 2026 (June 11 – July 19, 2026)
+- Annual Conference in Statistics, FIU (2025)
+- FIU Transportation System Operations Symposium (2025)
+- ASCE Miami-Dade Field Day (2024)
+- Volunteer Mathematics Teacher, Youth for Social Aid, Dhaka (2018–2019)
 
 ---
 
-## 🔗 Quick Links
+## 📬 Contact
 
-- [View My Publications](/publications/)
-- [Conference Presentations](/presentations/)
-- [Technical Skills](/skills/)
-- [Research Projects](/projects/)
-- [GitHub Repositories](https://github.com/Nayem4954)
+- **Email:** hnayem@fiu.edu
+- **Phone:** +1 (786) 836-9846
+- **LinkedIn:** [linkedin.com/in/hm-nayem-9039b2248](https://www.linkedin.com/in/hm-nayem-9039b2248/)
+- **Google Scholar:** [HM Nayem](https://scholar.google.com/citations?user=F09k_p4AAAAJ&hl=en&oi=ao)
+- **GitHub:** [github.com/Nayem-Stat](https://github.com/Nayem-Stat)
 
 ---
 
-*Last Updated: August 27, 2026*
+*Last Updated: November 2026*
