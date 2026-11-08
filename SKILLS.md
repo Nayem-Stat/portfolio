@@ -1,204 +1,55 @@
-# Technical Skills & Expertise
+---
+layout: default
+title: Technical Skills
+---
 
-## Statistical & Programming Languages
+# Technical Skills
 
-### Advanced Proficiency
-- **R**: tidyverse, caret, glmnet, pscl, lme4, ggplot2
-  - Machine learning pipeline development
-  - Statistical modeling and inference
-  - Data visualization and reporting
-  - Package development and optimization
+### Programming & Statistical Tools
+- **Python:** NumPy, pandas, scikit-learn, TensorFlow, PyTorch, statsmodels, matplotlib, seaborn
+- **R:** tidyverse, caret, glmnet, pscl, lme4, ggplot2
+- **Other:** SQL, SAS, Stata, SPSS, Minitab, JMP, MATLAB, LaTeX
 
-- **Python**: NumPy, pandas, scikit-learn, TensorFlow, PyTorch, statsmodels
-  - Deep learning applications
-  - Machine learning model development
-  - Data preprocessing and manipulation
-  - Visualization with matplotlib and seaborn
-
-### Intermediate Proficiency
-- SAS (PROC SQL, PROC REG, PROC GLM, PROC LOGISTIC)
-- SQL (PostgreSQL, MySQL, SQL Server)
-- Stata (econometric analysis, statistical modeling)
-- MATLAB (numerical computing, simulations)
-
-### Operational Proficiency
-- SPSS
-- Minitab
-- JMP
-- LaTeX (academic writing and document preparation)
-- Bash/Shell scripting
+### Data & Visualization
+- Power BI, ArcMap, Google Earth Pro, MS Office (Word, Excel, PowerPoint, Outlook)
 
 ---
 
-## Data & Visualization Tools
+## 📐 Statistical Methods
 
-### Business Intelligence & Analytics
-- **Databricks** - Data platform and ML engineering
-- **Power BI** - Interactive dashboards and reports
-- **Tableau** - Advanced data visualization
-- **Looker** - Business intelligence and data exploration
-- **Google Earth Pro** - Geospatial analysis
+- **Regression:** linear, logistic and generalized linear models; mixed-effects models (lme4)
+- **Regularization:** ridge, lasso, elastic net; ridge penalty (k) selection; shrinkage and prior-information estimators
+- **Count data:** Poisson, negative binomial, zero-inflated (ZIP, ZINB) and hurdle models; overdispersion diagnostics; Vuong test
+- **Multicollinearity diagnostics:** correlation matrices, variance inflation factors, condition numbers and indices
+- **Inference:** hypothesis testing, confidence intervals, bootstrap, robust estimation with outliers
+- **Simulation:** Monte Carlo study design and estimator comparison by MSE, bias and coverage
 
-### GIS & Mapping
-- **ArcMap** - Geographic information systems
-- **Google Earth Pro** - Satellite imagery and mapping
-- Geospatial data analysis and visualization
+## 🤖 Machine Learning
 
-### Office & Productivity
-- Microsoft Office Suite (Excel, Word, PowerPoint, Access)
-- Google Workspace
-- Slack, Teams, Zoom
-
----
-
-## Cloud & Data Management
-
-### Cloud Platforms
-- **AWS** - EC2, S3, SageMaker, Lambda, RDS
-- **Microsoft Azure** - Virtual Machines, Data Lake, Synapse Analytics
-- **Google Cloud Platform** - Compute Engine, BigQuery, Vertex AI
-
-### Data Warehousing & Management
-- **Snowflake** - Cloud data warehouse
-- **dbt** - Data transformation and modeling
-- Data pipeline orchestration
-- Database design and optimization
-
----
-
-## Statistical Methods & Techniques
-
-### Regression Analysis
-- Multiple linear regression
-- Ridge regression and regularization
-- Lasso and Elastic Net
-- Logistic regression
-- Generalized linear models (GLM)
-- Mixed-effects models
-
-### Advanced Methods
-- Hurdle models for zero-inflated data
-- Negative binomial regression
-- Bayesian inference and prior specification
-- Time series analysis
-- Survival analysis
-
-### Dimension Reduction
-- Principal Component Analysis (PCA)
-- Factor analysis
-- Feature selection and engineering
-- High-dimensional data analysis
-
-### Machine Learning
-- Supervised learning (classification, regression)
-- Unsupervised learning (clustering)
-- Ensemble methods (Random Forests, Gradient Boosting)
-- Neural networks and deep learning
+- Supervised learning for classification and regression
+- Tree ensembles (random forests, gradient boosting) and neural networks (TensorFlow, PyTorch)
+- Explainable AI with SHAP
+- Feature screening and selection for high-dimensional data (p ≫ n)
 - Cross-validation and model evaluation
 
----
+## 📊 Data & Reporting
 
-## Multicollinearity & Model Selection
+- Data pipelines and cloud-based data management
+- Dashboards and visualization (Power BI, ggplot2, matplotlib, seaborn)
+- Monitoring & evaluation (M&E) and analytical reports for funded projects
+- Academic writing in LaTeX; peer review for journals and conferences
 
-### Expertise Areas
-- Variance Inflation Factor (VIF) analysis
-- Condition index evaluation
-- Model comparison and selection criteria (AIC, BIC)
-- Ridge penalty optimization
-- Trade-off analysis between bias and variance
-- Robustness testing under model assumptions
+## 🎓 Certification
 
----
+- **Data Science Professional (DSP)**, American Statistical Association, 2026–2031
 
-## Data Analysis & Research Design
+## 🤝 Professional Skills
 
-### Statistical Concepts
-- Hypothesis testing and significance levels
-- Confidence intervals and uncertainty quantification
-- Power analysis and sample size determination
-- Experimental design
-- Quasi-experimental methods
-
-### Quantitative Research
-- Literature review and evidence synthesis
-- Study design and protocol development
-- Data collection methodology
-- Analysis planning and documentation
-- Results reporting and visualization
+- Teaching and tutoring statistics to undergraduates
+- Managing several research projects at once
+- Leadership: President, Statistics Club (ASA Student Chapter at FIU)
+- Presenting to technical and non-technical audiences
 
 ---
 
-## Domain Expertise
-
-### Transportation Safety
-- Crash data analysis and modeling
-- Traffic conflict identification
-- Safety intervention evaluation
-- Managed lane operations
-- Work zone safety analysis
-- Incident management
-
-### Public Health & Epidemiology
-- Disease modeling
-- Prevalence and incidence analysis
-- Population-based studies
-- Epidemiological research methods
-
-### Business Analytics
-- Market analysis
-- Customer behavior analysis
-- Financial modeling
-- Operational metrics
-- Strategic reporting
-
----
-
-## Soft Skills
-
-- **Communication**: Technical and non-technical audience engagement
-- **Project Management**: Multi-project coordination and delivery
-- **Collaboration**: Cross-functional team work and leadership
-- **Research**: Literature review, study design, and execution
-- **Writing**: Academic papers, technical reports, grant proposals
-- **Presentation**: Conference presentations, seminars, workshops
-- **Teaching**: Graduate and undergraduate instruction
-- **Peer Review**: Manuscript review and quality assurance
-
----
-
-## Professional Development
-
-### Certifications & Coursework
-- Statistical inference and methodology
-- Machine learning and data science
-- Cloud computing (AWS, Azure, GCP)
-- Data engineering best practices
-- Advanced R programming
-- Python for data science
-
-### Continuous Learning
-- Active participation in statistical conferences
-- Online courses and professional development
-- Journal club participation
-- Mentorship and collaboration
-
----
-
-## Technical Infrastructure
-
-### Development Environment
-- Git version control (GitHub, GitLab)
-- RStudio and VS Code
-- Jupyter Notebooks
-- Linux/Unix command line
-- Docker containerization
-
-### Collaboration Tools
-- GitHub for version control and collaboration
-- Project management platforms
-- Documentation systems
-- Remote collaboration tools
-
----
-
-*Last Updated: August 27, 2026*
+*Last Updated: November 2026*
