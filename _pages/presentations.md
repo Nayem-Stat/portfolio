@@ -4,222 +4,62 @@ title: Conference Presentations
 permalink: /presentations/
 ---
 
-# Conference Presentations & Talks
+# Conference Presentations
 
-## 🎤 Featured Presentations
-
-I actively present my research at major statistical and transportation conferences. Below is a detailed overview of recent presentations and speaking engagements.
+**23 presentations** at national and international meetings, 12 of them in statistics and data science.
 
 ---
 
-## 2026 Presentations
+## 📊 Statistics & Data Science
 
-### 1. Ridge Penalties for High-Dimensional Linear Models
-
-**Conference:** 2026 Symposium on Data Science & Statistics (SDSS 2026)  
-**Location:** Milwaukee, Wisconsin  
-**Date:** April 29, 2026  
-**Format:** Oral Presentation (20 minutes)  
-**Presenters:** Nayem, H., & Kibria, B. M. G.  
-
-**Abstract:**
-This presentation evaluates different ridge penalty selection methods for high-dimensional linear regression models under multicollinearity. Using extensive simulations, we compare cross-validation, generalized cross-validation, and theoretical approaches. The findings demonstrate that adaptive ridge penalties outperform fixed penalties in most scenarios, with applications to transportation safety data.
-
-**Key Topics:**
-- Ridge regression methodology
-- Penalty selection algorithms
-- High-dimensional data challenges
-- Real-world applications
-
-**Audience:** Data scientists, statisticians, machine learning practitioners
+| Date | Title | Authors | Venue | Location |
+|------|-------|---------|-------|----------|
+| Apr 6, 2026 | Ridge Prediction with Feature Screening in High-Dimensional Health Data | Nayem, H., & Kibria, B. M. G. | Graduate Student Appreciation Week (GSAW 2026) Scholarly Forum, FIU | Miami, FL |
+| Mar 7, 2026 | A Regularized Hurdle Framework for Addressing Multicollinearity in Zero-Inflated Count Data | Nayem, H., & Kibria, B. M. G. | 2026 Annual ASA Florida Chapter Meeting | Miami, FL |
+| Nov 28, 2025 | Addressing the Multicollinearity Problem for the Hurdle Poisson Model: Simulation and Application | Nayem, H., & Kibria, B. M. G. | IC-GASMOTDS-2025, Department of Statistics, M.D. University | Rohtak, India |
+| Aug 5, 2025 | Robustness of OLS, Ridge, Lasso, and Elastic Net in the Presence of Outliers: Simulation and Application | Nayem, H., Aziz, S., & Kibria, B. M. G. | Joint Statistical Meetings (JSM 2025) | Nashville, TN |
+| Jul 21, 2025 | An Unbiased Convex Estimator Depending on Prior Information for the Classical Linear Regression Model | Alheety, M. I., Nayem, H., & Kibria, B. M. G. | Mathematical Congress of the Americas (MCA 2025) | Miami, FL |
+| Jun 29, 2025 | The Impact of Penalty Parameters on Estimator Accuracy and MSE in Regularized Logistic Regression Under Multicollinearity | Nayem, H., & Kibria, B. M. G. | Tenth International Conference on Recent Trends in Statistical Theory and Applications (WSTA-2025), University of Kerala (virtual) | India |
+| Jun 16, 2025 | A Prior-Information-Based Unbiased Convex Estimator for the Classical Linear Regression Model | Alheety, M. I., Nayem, H., & Kibria, B. M. G. | Quality and Productivity Research Conference (QPRC 2025), University of Washington | Seattle, WA |
+| May 1, 2025 | Comparison among Ordinary Least Squares, Ridge, Lasso, and Elastic Net Estimators in the Presence of Outliers: Simulation and Application | Nayem, H., & Kibria, B. M. G. | Symposium on Data Science and Statistics (SDSS 2025) | Salt Lake City, UT |
+| Apr 11, 2025 | A Prior-Information-Based Unbiased Convex Estimator for the Classical Linear Regression Model | Alheety, M. I., Nayem, H., & Kibria, B. M. G. | Annual Conference in Statistics: Statistical Modelling, Analysis, and Applications, FIU | Miami, FL |
+| Apr 7, 2025 | Robustness of OLS, Ridge, Lasso, and Elastic Net in the Presence of Outliers: Simulation and Application | Nayem, H., Aziz, S., & Kibria, B. M. G. | Graduate Student Appreciation Week (GSAW 2025) Scholarly Forum, FIU | Miami, FL |
+| May 15, 2024 | A Simulation Study on Some Confidence Intervals for Estimating the Population Mean Under Asymmetric and Symmetric Distribution Conditions | Nayem, H., & Kibria, B. M. G. | Annual Mini-Conference on Statistical Modeling and Applications, FIU | Miami, FL |
+| Apr 3, 2024 | Estimating the Population Mean with Confidence: A Simulation Study Under Different Distributional Conditions and Including Outliers | Nayem, H., & Kibria, B. M. G. | Graduate Student Appreciation Week (GSAW 2024) Scholarly Forum, FIU | Miami, FL |
 
 ---
 
-### 2. Regularized Hurdle Framework for Zero-Inflated Count Data
+## 🤖 Applied Statistical & Machine Learning Modeling (Co-authored)
 
-**Conference:** 2026 Annual ASA Florida Chapter Meeting  
-**Location:** Florida International University, Miami, FL  
-**Date:** March 7, 2026  
-**Format:** Oral Presentation  
-**Presenters:** Nayem, H., & Kibria, B. G. M.  
-
-**Abstract:**
-We introduce a novel regularized hurdle framework that combines ridge regression with hurdle Poisson models to address multicollinearity in zero-inflated count data. The methodology is demonstrated through simulation studies and applied to transportation and public health datasets, showing significant improvements over existing methods.
-
-**Key Topics:**
-- Hurdle models
-- Ridge regression integration
-- Zero-inflated data handling
-- Statistical methodology
-
-**Audience:** Academic statisticians, practitioners working with count data
+| Date | Title | Authors | Venue | Location |
+|------|-------|---------|-------|----------|
+| Jan 14, 2026 | Evaluating Factors Influencing Crash Clearance Duration: A Quantile Regression and Machine Learning Approach for Florida Freeway Work Zones | Shita, H., Nayem, H., & Alluri, P. | 105th TRB Annual Meeting (TRB 2026) | Washington, DC |
+| Jan 13, 2026 | Exploring Factors Influencing Near-Crashes on Managed Lanes | Mwambeleko, E., Nayem, H., & Alluri, P. | 105th TRB Annual Meeting (TRB 2026) | Washington, DC |
+| Jan 13, 2026 | Assessing the Effect of Weather on Injury Severity on Undivided Rural Two-Lane Horizontal Curve Crashes Through Machine Learning Techniques with Shapley Additive Explanations | Mdimi, O., Kasubi, F., & Nayem, H. | 105th TRB Annual Meeting (TRB 2026) | Washington, DC |
+| Jan 12, 2026 | Assessing the Influence of Managed Lane Separation Type on Lane Deviation | Mwambeleko, E., Nayem, H., & Alluri, P. | 105th TRB Annual Meeting (TRB 2026) | Washington, DC |
+| Aug 12, 2025 | A Data-Driven Framework for Analysis and Mitigating Motorcycle Crash Hotspots in Florida | Paul, D., Nayem, H., & Alluri, P. | 2025 ITE International and Florida Puerto Rico District Annual Meeting | Orlando, FL |
+| Apr 7, 2025 | A Data-Driven Framework for Analysis and Mitigating Motorcycle Crash Hotspots in Florida | Paul, D., Nayem, H., & Alluri, P. | Graduate Student Appreciation Week (GSAW 2025) Scholarly Forum, FIU | Miami, FL |
+| Jan 8, 2025 | Analyzing Head-On Crash Severity on Rural Two-Lane Roads | Garupalli, H., Mwambeleko, E., Shita, H., Nayem, H., Kasubi, F., Mdimi, O., & Alluri, P. | 104th TRB Annual Meeting (TRB 2025) | Washington, DC |
+| Jan 7, 2025 | Comparative Analysis of Single Vehicle Run-off Crashes in Rural vs. Urban Freeways | Mwambeleko, E., Shita, H., Nayem, H., & Alluri, P. | 104th TRB Annual Meeting (TRB 2025) | Washington, DC |
+| Jan 7, 2025 | Comparing Statistical and Machine Learning Models for Predicting Crash Injury Severity among Aging Drivers on Florida Freeways | Mdimi, O., Kasubi, F., Nayem, H., Kasomi, S., & Alluri, P. | 104th TRB Annual Meeting (TRB 2025) | Washington, DC |
+| Jan 6, 2025 | Analysis of Crashes Involving Micromobility Devices | Mwambeleko, E., Alluri, P., Sando, T., Nayem, H., Aida, A., & Matyenyi, J. | 104th TRB Annual Meeting (TRB 2025) | Washington, DC |
+| Jan 6, 2025 | Predicting Injury Severity of Work Zone Crashes Along Florida Freeways | Shita, H., Nayem, H., & Alluri, P. | 104th TRB Annual Meeting (TRB 2025) | Washington, DC |
 
 ---
 
-### 3. Exploring Factors Influencing Near-Crashes on Managed Lanes
+## 🏛️ Meetings Attended
 
-**Conference:** 105th Annual Meeting of the Transportation Research Board (TRB 2026)  
-**Location:** Washington, DC  
-**Date:** January 13, 2026  
-**Format:** Oral Presentation  
-**Presenters:** Mwambeleko, E., Nayem, H., & Alluri, P.  
-
-**Abstract:**
-This presentation analyzes traffic conflict data from managed lane facilities to identify factors influencing near-crash events. Using statistical modeling and machine learning techniques, we examine driver behavior patterns, environmental conditions, and facility characteristics. Results provide recommendations for improving safety in managed lane operations.
-
-**Key Topics:**
-- Traffic safety analysis
-- Driver behavior modeling
-- Managed lane operations
-- Safety recommendations
-
-**Audience:** Transportation professionals, safety engineers, policy makers
+- Joint Statistical Meetings (JSM 2025), Nashville, TN
+- Symposium on Data Science and Statistics (SDSS 2025), Salt Lake City, UT
+- Quality and Productivity Research Conference (QPRC 2025), Seattle, WA
+- Mathematical Congress of the Americas (MCA 2025), Miami, FL
+- 2026 Annual ASA Florida Chapter Meeting, Miami, FL
+- WSTA-2025 (virtual), University of Kerala, India
+- TRB Annual Meetings (2025, 2026), Washington, DC
+- ITE Annual Meetings (2024, 2025)
+- FIU Graduate Student Appreciation Week (2024, 2025, 2026)
+- Student Leadership Summits (2024, 2025, 2026)
 
 ---
 
-## 2025 Presentations
-
-### 4. Robustness of Regression Estimators Under Outlier Contamination
-
-**Conference:** 2025 Joint Statistical Meeting (JSM 2025)  
-**Location:** Nashville, Tennessee  
-**Date:** August 5, 2025  
-**Format:** Oral Presentation (15 minutes)  
-**Presenters:** Nayem, H., Aziz, S., & Kibria, B. M. G.  
-
-**Abstract:**
-We conduct a comprehensive simulation study comparing the robustness of ordinary least squares (OLS), ridge, Lasso, and Elastic Net estimators in the presence of outliers. The study examines various contamination levels, outlier types, and data characteristics. Practical guidelines are provided for selecting appropriate estimators based on problem characteristics.
-
-**Key Topics:**
-- Robustness analysis
-- Simulation methodology
-- Regression estimators
-- Outlier handling
-- Decision framework
-
-**Audience:** Statisticians, data analysts, machine learning professionals
-
----
-
-### 5. Prior-Information-Based Unbiased Convex Estimator
-
-**Conference:** Quality and Productivity Research Conference (QPRC 2025)  
-**Location:** University of Washington, Seattle, Washington  
-**Date:** June 16, 2025  
-**Format:** Oral Presentation  
-**Presenters:** Nayem, H., & Kibria, B. M. G.  
-
-**Presentation Title:** "A Prior-Information-Based Unbiased Convex Estimator for the Classical Linear Regression Model"
-
-**Abstract:**
-This talk introduces a novel Bayesian approach to linear regression that incorporates prior information while maintaining unbiasedness. The method formulates estimation as a convex optimization problem, resulting in improved performance over classical approaches. Applications demonstrate the utility across diverse domains including transportation and public health.
-
-**Key Topics:**
-- Bayesian methodology
-- Prior specification
-- Convex optimization
-- Linear regression theory
-- Practical applications
-
-**Audience:** Statisticians with Bayesian interests, optimization researchers
-
----
-
-### 6. TSMO Strategies for Speed Recovery After Incidents
-
-**Conference:** International Conference on Transportation and Development 2025  
-**Location:** Virtual and On-Site  
-**Date:** 2025 (Spring)  
-**Format:** Conference Proceedings Paper  
-**Presenters:** Kasubi, F., Nayem, H., & Alluri, P.  
-
-**Paper Title:** "Analyzing the Synergistic Effects of TSMO Strategies for Quicker Speed Recovery after Incidents"
-
-**Pages:** 470-480  
-
-**Abstract:**
-This paper examines traffic signal management and operations (TSMO) strategies designed to accelerate speed recovery following traffic incidents. Using field data and simulation, we analyze both individual and combined strategy effects, demonstrating significant improvements in recovery time. Practical recommendations are provided for traffic management agencies.
-
-**Key Topics:**
-- Traffic signal management
-- Incident response
-- Speed recovery analysis
-- Strategy optimization
-- Operational recommendations
-
-**Audience:** Traffic engineers, transportation planners, operations specialists
-
----
-
-## Conference Affiliations & Participation
-
-### Member Conferences
-- **Joint Statistical Meeting (JSM)** - American Statistical Association
-- **Symposium on Data Science & Statistics (SDSS)**
-- **Quality and Productivity Research Conference (QPRC)**
-- **Transportation Research Board (TRB) Annual Meeting**
-- **International Conference on Transportation and Development**
-
-### Professional Organizations
-- **American Statistical Association (ASA)** - Member since 2024
-- **Institute of Transportation Engineers (ITE)** - Member since 2024
-- **American Society of Civil Engineers (ASCE)** - Member since 2024
-
----
-
-## Presentation Statistics
-
-| Metric | Count |
-|--------|-------|
-| **Oral Presentations** | 6 |
-| **Conference Papers** | 3 |
-| **Total Presentations** | 6 |
-| **Years Active** | 2024-2026 |
-| **Average Presentation Length** | 20 minutes |
-
----
-
-## Key Presentation Topics
-
-### Statistical Methodology (50%)
-- Ridge regression and regularization
-- Robustness analysis
-- Bayesian inference
-
-### Transportation Safety (35%)
-- Crash modeling
-- Driver behavior
-- Safety analysis
-
-### Machine Learning (15%)
-- Algorithm comparison
-- Performance evaluation
-- Real-world applications
-
----
-
-## Speaking Experience & Skills
-
-✅ Experienced presenter at national and international conferences  
-✅ Skilled in technical communication to diverse audiences  
-✅ Comfortable with academic and industry settings  
-✅ Proficient with presentation technology and slide design  
-✅ Active participant in Q&A and research discussions  
-
----
-
-## Upcoming Presentations
-
-Check back for announcements of upcoming conference presentations and speaking engagements.
-
----
-
-## 🔗 Related Resources
-
-- **[View Publications](/publications/)** - Full publication list
-- **[Research Interests](/skills/)** - Technical expertise areas
-- **[Current Projects](/projects/)** - Active research initiatives
-
----
-
-**Last Updated:** August 27, 2026
+*Last Updated: November 2026*
