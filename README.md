@@ -24,7 +24,7 @@ Statistician and data scientist with **5+ years of experience** building statist
 - Monte Carlo simulation, statistical inference and confidence intervals
 - Data pipelines, reporting, and monitoring & evaluation (M&E) for funded projects
 
-**Proficient in:** R, Python, SQL, SAS, Stata, SPSS, MATLAB, Power BI
+**Proficient in:** R, Python, SQL, SAS, Stata, SPSS, MATLAB, Power BI, Tableau, AWS, Azure, GCP, Databricks, Snowflake
 
 ---
 
@@ -93,7 +93,11 @@ Statistician and data scientist with **5+ years of experience** building statist
 - **Other:** SQL, SAS, Stata, SPSS, Minitab, JMP, MATLAB, LaTeX
 
 ### Data & Visualization
-- Power BI, ArcMap, Google Earth Pro, MS Office (Word, Excel, PowerPoint, Outlook)
+- Power BI, Tableau, Looker, ArcMap, Google Earth Pro, MS Office (Word, Excel, PowerPoint, Outlook)
+
+### Cloud & Data Platforms
+- **Cloud:** AWS, Microsoft Azure, Google Cloud Platform
+- **Data platforms:** Databricks, Snowflake, dbt
 
 ---
 
