@@ -12,7 +12,11 @@ permalink: /skills/
 - **Other:** SQL, SAS, Stata, SPSS, Minitab, JMP, MATLAB, LaTeX
 
 ### Data & Visualization
-- Power BI, ArcMap, Google Earth Pro, MS Office (Word, Excel, PowerPoint, Outlook)
+- Power BI, Tableau, Looker, ArcMap, Google Earth Pro, MS Office (Word, Excel, PowerPoint, Outlook)
+
+### Cloud & Data Platforms
+- **Cloud:** AWS, Microsoft Azure, Google Cloud Platform
+- **Data platforms:** Databricks, Snowflake, dbt
 
 ---
 
@@ -36,7 +40,8 @@ permalink: /skills/
 ## 📊 Data & Reporting
 
 - Data pipelines and cloud-based data management
-- Dashboards and visualization (Power BI, ggplot2, matplotlib, seaborn)
+- Dashboards and visualization (Power BI, Tableau, Looker, ggplot2, matplotlib, seaborn)
+- Cloud data work on AWS, Azure and Google Cloud; Databricks, Snowflake and dbt for data engineering
 - Monitoring & evaluation (M&E) and analytical reports for funded projects
 - Academic writing in LaTeX; peer review for journals and conferences
 
